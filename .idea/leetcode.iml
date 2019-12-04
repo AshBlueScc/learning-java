@@ -5,7 +5,18 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$" isTestSource="false" />
     </content>
+    <content url="jar://$MODULE_DIR$/../workProjects/desensitizer/out/artifacts/desensitizer_jar/desensitizer_jar.jar!/" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library" exported="">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/../workProjects/desensitizer/out/artifacts/desensitizer_jar/desensitizer_jar" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+        <jarDirectory url="file://$MODULE_DIR$/../workProjects/desensitizer/out/artifacts/desensitizer_jar/desensitizer_jar" recursive="false" />
+      </library>
+    </orderEntry>
   </component>
 </module>
