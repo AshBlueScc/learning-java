@@ -2,7 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/leetcode.iml" filepath="$PROJECT_DIR$/.idea/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/designPaddern/designPaddern.iml" filepath="$PROJECT_DIR$/designPaddern/designPaddern.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/java学习总结.iml" filepath="$PROJECT_DIR$/.idea/java学习总结.iml" />
+      <module fileurl="file://$PROJECT_DIR$/leetcode/leetcode.iml" filepath="$PROJECT_DIR$/leetcode/leetcode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/thraeadsDemo/thraeadsDemo.iml" filepath="$PROJECT_DIR$/thraeadsDemo/thraeadsDemo.iml" />
     </modules>
   </component>
 </project>

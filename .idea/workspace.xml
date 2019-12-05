@@ -2,17 +2,43 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83df1bda-2680-4615-8cf9-56d1fb3c481e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/寻找两个有序数组的中位数4/median_of_two_sorted_arrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/寻找两个有序数组的中位数4/readME.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/寻找两个有序数组的中位数4/standard_solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/整数反转7/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/整数反转7/readME.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最长回文子串5/Longest_palindromic_substring.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最长回文子串5/Standard_solution1_expandAroundCenter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/最长回文子串5/readMe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/leetcode.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/designPaddern.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/Singleton1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/Singleton1_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/Singleton1_2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/Singleton1_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/Singleton2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/Singleton3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/Singleton4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/Singleton4_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/designPaddern/src/main/java/单例模式/总结" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/leetcode/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thraeadsDemo/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thraeadsDemo/src/main/java/Volatile/Volatile.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thraeadsDemo/src/main/java/Volatile/volatile关键字的作用、原理" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thraeadsDemo/src/main/java/Volatile/内存屏障" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/thraeadsDemo/thraeadsDemo.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/leetcode.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java学习总结.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/两数相加2/add_two_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/两数相加2/add_two_numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/两数相加2/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/两数相加2/readME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/两数相加2/standard_solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/两数相加2/standard_solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/买卖股票的最佳时机121/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/买卖股票的最佳时机121/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/买卖股票的最佳时机121/Standard_solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/买卖股票的最佳时机121/Standard_solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/买卖股票的最佳时机121/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/买卖股票的最佳时机121/readME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/寻找两个有序数组的中位数4/median_of_two_sorted_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/寻找两个有序数组的中位数4/median_of_two_sorted_arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/寻找两个有序数组的中位数4/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/寻找两个有序数组的中位数4/readME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/寻找两个有序数组的中位数4/standard_solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/寻找两个有序数组的中位数4/standard_solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/整数反转7/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/整数反转7/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/整数反转7/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/整数反转7/readME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/最长回文子串5/Longest_palindromic_substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/最长回文子串5/Longest_palindromic_substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/最长回文子串5/Standard_solution1_expandAroundCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/最长回文子串5/Standard_solution1_expandAroundCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/最长回文子串5/readMe" beforeDir="false" afterPath="$PROJECT_DIR$/leetcode/src/main/java/最长回文子串5/readMe" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -45,6 +71,11 @@
         <option name="userSettingsFile" value="E:\chengzhen\maven\apache-maven-3.5.0\conf\settings.xml" />
       </MavenGeneralSettings>
     </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
   </component>
   <component name="ProjectId" id="1UVoJ7MJ983Si4NrBp9GF16m1I1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -64,6 +95,12 @@
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="settings.findbugs.project" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\thraeadsDemo\src\main\java\并发机制的底层实现原理" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\leetcode\src\main\java" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -79,7 +116,7 @@
   <component name="RunManager" selected="Application.Solution">
     <configuration name="BestTimeToBuyAndSellStock" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="买卖股票的最佳时机121.BestTimeToBuyAndSellStock" />
-      <module name="leetcode" />
+      <module name="java学习总结" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="买卖股票的最佳时机121.*" />
@@ -92,7 +129,7 @@
     </configuration>
     <configuration name="Longest_palindromic_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="最长回文子串5.Longest_palindromic_substring" />
-      <module name="leetcode" />
+      <module name="java学习总结" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="最长回文子串5.*" />
@@ -105,7 +142,7 @@
     </configuration>
     <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="整数反转7.Solution" />
-      <module name="leetcode" />
+      <module name="java学习总结" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="整数反转7.*" />
@@ -118,7 +155,7 @@
     </configuration>
     <configuration name="Standard_solution1_expandAroundCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="最长回文子串5.Standard_solution1_expandAroundCenter" />
-      <module name="leetcode" />
+      <module name="java学习总结" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="最长回文子串5.*" />
@@ -131,7 +168,7 @@
     </configuration>
     <configuration name="median_of_two_sorted_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="寻找两个有序数组的中位数4.median_of_two_sorted_arrays" />
-      <module name="leetcode" />
+      <module name="java学习总结" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="寻找两个有序数组的中位数4.*" />
@@ -164,7 +201,8 @@
       <updated>1565861581467</updated>
       <workItem from="1565861585113" duration="61148000" />
       <workItem from="1567478961182" duration="3555000" />
-      <workItem from="1575451050527" duration="37000" />
+      <workItem from="1575451050527" duration="12003000" />
+      <workItem from="1575531431316" duration="912000" />
     </task>
     <task id="LOCAL-00001" summary="1.create the project">
       <created>1565861924181</created>
@@ -190,15 +228,6 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
-  <component name="TodoView">
-    <todo-panel id="selected-file">
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-    <todo-panel id="all">
-      <are-packages-shown value="true" />
-      <is-autoscroll-to-source value="true" />
-    </todo-panel>
-  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
@@ -207,7 +236,9 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
           </value>
         </entry>
       </map>
