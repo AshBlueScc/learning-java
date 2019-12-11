@@ -2,12 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83df1bda-2680-4615-8cf9-56d1fb3c481e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/OutofOrderExecution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/volatile.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/src/java并发包之原子类Automic/Example0_automic_integer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/src/java并发包之原子类Automic/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example0_Padding方式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example1_Contended注解方式.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example2_验证伪共享与缓存行填充.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/README.TXT" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/Volatile/Volatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/Volatile.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/Volatile/volatile关键字的作用、原理" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/volatile关键字的作用、原理" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/Volatile/内存屏障" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/src/内存屏障.md" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -39,6 +40,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="FxmlFile" />
         <option value="Class" />
       </list>
     </option>
@@ -100,7 +102,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.OutofOrderExecution">
+  <component name="RunManager" selected="Application.Example2_验证伪共享与缓存行填充$FlashSharing">
+    <configuration name="Example2_验证伪共享与缓存行填充$FlashSharing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="认识CPUCache.CacheLine伪共享处理方案.Example2_验证伪共享与缓存行填充$FlashSharing" />
+      <module name="多线程到底层" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="认识CPUCache.CacheLine伪共享处理方案.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Longest_palindromic_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="最长回文子串5.Longest_palindromic_substring" />
       <module name="java学习总结" />
@@ -153,26 +168,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="median_of_two_sorted_arrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="寻找两个有序数组的中位数4.median_of_two_sorted_arrays" />
-      <module name="java学习总结" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="寻找两个有序数组的中位数4.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Example2_验证伪共享与缓存行填充$FlashSharing" />
         <item itemvalue="Application.OutofOrderExecution" />
         <item itemvalue="Application.Solution" />
         <item itemvalue="Application.Standard_solution1_expandAroundCenter" />
         <item itemvalue="Application.Longest_palindromic_substring" />
-        <item itemvalue="Application.median_of_two_sorted_arrays" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +193,7 @@
       <workItem from="1575451050527" duration="12003000" />
       <workItem from="1575531431316" duration="2030000" />
       <workItem from="1575596118446" duration="2120000" />
-      <workItem from="1575882632367" duration="8657000" />
+      <workItem from="1575882632367" duration="21404000" />
     </task>
     <task id="LOCAL-00001" summary="1.create the project">
       <created>1565861924181</created>
