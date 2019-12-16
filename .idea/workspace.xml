@@ -2,13 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83df1bda-2680-4615-8cf9-56d1fb3c481e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/多线程到底层/src/java并发包之原子类Automic/Example0_automic_integer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程到底层/src/java并发包之原子类Automic/README.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example0_Padding方式.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example1_Contended注解方式.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example2_验证伪共享与缓存行填充.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/README.TXT" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/notes/2.3_原子操作的实现原理" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -73,17 +71,18 @@
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workProjects/10.15-10.31build/build" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.findbugs.project" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\多线程到底层\java并发编程的艺术\chapter2_Java并发机制的底层实现原理\notes" />
       <recent name="E:\chengzhen\cz-idea-workspace\learning-java\多线程到底层\src" />
       <recent name="E:\chengzhen\cz-idea-workspace\learning-java\力扣刷题\src" />
       <recent name="E:\chengzhen\cz-idea-workspace\learning-java\thraeadsDemo\src\main\java\并发机制的底层实现原理" />
@@ -102,13 +101,13 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Example2_验证伪共享与缓存行填充$FlashSharing">
-    <configuration name="Example2_验证伪共享与缓存行填充$FlashSharing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="认识CPUCache.CacheLine伪共享处理方案.Example2_验证伪共享与缓存行填充$FlashSharing" />
+  <component name="RunManager" selected="Application.Test">
+    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2_Java并发机制的底层实现原理.examples.Counter" />
       <module name="多线程到底层" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="认识CPUCache.CacheLine伪共享处理方案.*" />
+          <option name="PATTERN" value="chapter2_Java并发机制的底层实现原理.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -116,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Longest_palindromic_substring" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最长回文子串5.Longest_palindromic_substring" />
-      <module name="java学习总结" />
+    <configuration name="Example2_验证伪共享与缓存行填充$FlashSharing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="认识CPUCache.CacheLine伪共享处理方案.Example2_验证伪共享与缓存行填充$FlashSharing" />
+      <module name="多线程到底层" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="最长回文子串5.*" />
+          <option name="PATTERN" value="认识CPUCache.CacheLine伪共享处理方案.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -155,12 +154,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Standard_solution1_expandAroundCenter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="最长回文子串5.Standard_solution1_expandAroundCenter" />
-      <module name="java学习总结" />
+    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter2_Java并发机制的底层实现原理.examples.Test" />
+      <module name="多线程到底层" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="最长回文子串5.*" />
+          <option name="PATTERN" value="chapter2_Java并发机制的底层实现原理.examples.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,11 +169,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Test" />
+        <item itemvalue="Application.Counter" />
         <item itemvalue="Application.Example2_验证伪共享与缓存行填充$FlashSharing" />
         <item itemvalue="Application.OutofOrderExecution" />
         <item itemvalue="Application.Solution" />
-        <item itemvalue="Application.Standard_solution1_expandAroundCenter" />
-        <item itemvalue="Application.Longest_palindromic_substring" />
       </list>
     </recent_temporary>
   </component>
@@ -193,7 +192,8 @@
       <workItem from="1575451050527" duration="12003000" />
       <workItem from="1575531431316" duration="2030000" />
       <workItem from="1575596118446" duration="2120000" />
-      <workItem from="1575882632367" duration="21404000" />
+      <workItem from="1575882632367" duration="23759000" />
+      <workItem from="1576230793126" duration="5821000" />
     </task>
     <task id="LOCAL-00001" summary="1.create the project">
       <created>1565861924181</created>
