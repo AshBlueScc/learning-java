@@ -6,10 +6,12 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="java学习总结" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="designPaddern" target="1.5" />
+      <module name="java学习总结" target="1.5" />
       <module name="leetcode" target="1.5" />
       <module name="thraeadsDemo" target="1.5" />
     </bytecodeTargetLevel>

@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="commons-io-1.3.2">
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/框架/E0搜索引擎框架/lib" />
+      <root url="file://$PROJECT_DIR$/框架/E1安全框架/lib" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.ideaLibSources/commons-io-1.3.2-sources.jar!/" />
+    </SOURCES>
+    <jarDirectory url="file://$PROJECT_DIR$/框架/E0搜索引擎框架/lib" recursive="false" />
+    <jarDirectory url="file://$PROJECT_DIR$/框架/E1安全框架/lib" recursive="false" />
+  </library>
+</component>

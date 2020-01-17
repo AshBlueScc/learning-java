@@ -2,9 +2,88 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83df1bda-2680-4615-8cf9-56d1fb3c481e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_25.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_1_3_2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java高级特性/exalple0流/Example0_flatMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Java高级特性/exalple0流/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg4一些高性能类/Example1_CopyOnWriteArrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/140k_products.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example0_TestAnalyzer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example1_TestLucene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example2_TestLucene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example3_TestLucene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example4_TestLucene.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example0_TestSolr4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example1_TestSolr4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example2_TestSolr4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example3_TestSolr4j.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example0_TestElasticSearch4J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example1_TestElasticSearch4J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example2_TestElasticSearch4J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example3_TestElasticSearch4J.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/README.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/ProductUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/SolrUtil.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/TestShiro.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/User.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/shiro.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/ss.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/框架/框架.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/src/test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/src/test1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/设计模式/src/单例模式/test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/java学习总结.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/java学习总结.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/OutofOrderExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/OutofOrderExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/两数相加2/add_two_numbers.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/add_two_numbers.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/两数相加2/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/readME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/两数相加2/standard_solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/standard_solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/买卖股票的最佳时机121/BestTimeToBuyAndSellStock.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/BestTimeToBuyAndSellStock.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/买卖股票的最佳时机121/Standard_solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/Standard_solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/买卖股票的最佳时机121/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/readME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/寻找两个有序数组的中位数4/median_of_two_sorted_arrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/median_of_two_sorted_arrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/寻找两个有序数组的中位数4/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/readME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/寻找两个有序数组的中位数4/standard_solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/standard_solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/整数反转7/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg7整数反转/Solution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/整数反转7/readME.txt" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg7整数反转/readME.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/最长回文子串5/Longest_palindromic_substring.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/Longest_palindromic_substring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/最长回文子串5/Standard_solution1_expandAroundCenter.java" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/Standard_solution1_expandAroundCenter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/最长回文子串5/readMe" beforeDir="false" afterPath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/readMe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/notes/2.3_原子操作的实现原理" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/notes/2.3_原子操作的实现原理" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter3_Java内存模型/notes/3.1内存模型的基础.md" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter3_Java内存模型/notes/3.1内存模型的基础.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/java并发编程的艺术/chapter3_Java内存模型/ss.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter3_Java内存模型/ss.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/OutofOrderExecution.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/OutofOrderExecution.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/Volatile.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/Volatile.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/volatile.md" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/Volatile内存屏障/volatile关键字的作用、原理" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile关键字的作用、原理" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/java并发包之原子类Automic/Example0_automic_integer.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg3java并发包之原子类Automic/Example0_automic_integer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/java并发包之原子类Automic/README.txt" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg3java并发包之原子类Automic/README.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/内存屏障.md" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/内存屏障.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example0_Padding方式.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example0_Padding方式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example1_Contended注解方式.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example1_Contended注解方式.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/CacheLine伪共享处理方案/Example2_验证伪共享与缓存行填充.java" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example2_验证伪共享与缓存行填充.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/认识CPUCache/README.TXT" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/README.TXT" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" beforeDir="false" afterPath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/设计模式/设计模式.iml" beforeDir="false" afterPath="$PROJECT_DIR$/设计模式/设计模式.iml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -64,27 +143,47 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.Annotations" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../workProjects/10.15-10.31build/build" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/框架/搜索引擎框架/example2_elasticsearch/com" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java高级特性" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\多线程到底层\java并发编程的艺术\chapter2_Java并发机制的底层实现原理\notes" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\多线程到底层\src" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\力扣刷题\src" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\thraeadsDemo\src\main\java\并发机制的底层实现原理" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\leetcode\src\main\java" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\E1安全框架\java\shiro\example0入门" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\java" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\example2_elasticsearch" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\example1_solr" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\example1_solr\how2java1" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+      <recent name="com" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="example2_elasticsearch" />
+      <recent name="com.how2java2" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\Java高级特性" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\E1安全框架" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\lib" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\lib" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\elasticsearch" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -99,13 +198,20 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Counter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2_Java并发机制的底层实现原理.examples.Counter" />
-      <module name="多线程到底层" />
+  <component name="RunManager" selected="Application.Example0_flatMap">
+    <configuration name="Example0_flatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Example0_flatMap" />
+      <module name="Java高级特性" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2_TestElasticSearch4J (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example2_elasticsearch.Example2_TestElasticSearch4J" />
+      <module name="框架" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter2_Java并发机制的底层实现原理.examples.*" />
+          <option name="PATTERN" value="example2_elasticsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +219,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Example2_验证伪共享与缓存行填充$FlashSharing" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="认识CPUCache.CacheLine伪共享处理方案.Example2_验证伪共享与缓存行填充$FlashSharing" />
-      <module name="多线程到底层" />
+    <configuration name="Example2_TestElasticSearch4J" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.how2java2.Example2_TestElasticSearch4J" />
+      <module name="框架" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="认识CPUCache.CacheLine伪共享处理方案.*" />
+          <option name="PATTERN" value=".*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +232,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OutofOrderExecution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Volatile内存屏障.OutofOrderExecution" />
-      <module name="多线程到底层" />
+    <configuration name="Example3_TestElasticSearch4J" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="example2_elasticsearch.Example3_TestElasticSearch4J" />
+      <module name="框架" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Volatile内存屏障.*" />
+          <option name="PATTERN" value="example2_elasticsearch.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,25 +245,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="整数反转7.Solution" />
-      <module name="java学习总结" />
+    <configuration name="TestShiro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="shiro.TestShiro" />
+      <module name="框架" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="整数反转7.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter2_Java并发机制的底层实现原理.examples.Test" />
-      <module name="多线程到底层" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="chapter2_Java并发机制的底层实现原理.examples.*" />
+          <option name="PATTERN" value="shiro.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -167,11 +260,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Counter" />
-        <item itemvalue="Application.Example2_验证伪共享与缓存行填充$FlashSharing" />
-        <item itemvalue="Application.OutofOrderExecution" />
-        <item itemvalue="Application.Solution" />
+        <item itemvalue="Application.Example0_flatMap" />
+        <item itemvalue="Application.TestShiro" />
+        <item itemvalue="Application.Example3_TestElasticSearch4J" />
+        <item itemvalue="Application.Example2_TestElasticSearch4J (1)" />
+        <item itemvalue="Application.Example2_TestElasticSearch4J" />
       </list>
     </recent_temporary>
   </component>
@@ -191,7 +284,22 @@
       <workItem from="1575531431316" duration="2030000" />
       <workItem from="1575596118446" duration="2120000" />
       <workItem from="1575882632367" duration="23759000" />
-      <workItem from="1576230793126" duration="16337000" />
+      <workItem from="1576230793126" duration="16658000" />
+      <workItem from="1577062929153" duration="8190000" />
+      <workItem from="1577670707149" duration="594000" />
+      <workItem from="1577699919843" duration="595000" />
+      <workItem from="1577781312365" duration="597000" />
+      <workItem from="1578274228850" duration="1503000" />
+      <workItem from="1578377771156" duration="5556000" />
+      <workItem from="1578477632976" duration="2867000" />
+      <workItem from="1578535898627" duration="2453000" />
+      <workItem from="1578551715652" duration="1257000" />
+      <workItem from="1578627073454" duration="76000" />
+      <workItem from="1578627184313" duration="5888000" />
+      <workItem from="1578881816399" duration="5422000" />
+      <workItem from="1578967426127" duration="3274000" />
+      <workItem from="1579077346600" duration="920000" />
+      <workItem from="1579136916624" duration="6287000" />
     </task>
     <task id="LOCAL-00001" summary="1.create the project">
       <created>1565861924181</created>
