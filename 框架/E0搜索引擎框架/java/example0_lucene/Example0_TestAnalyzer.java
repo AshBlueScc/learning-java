@@ -1,5 +1,3 @@
-package example0_lucene;
-
 import org.apache.lucene.analysis.TokenStream;
 import org.wltea.analyzer.lucene.IKAnalyzer;
 
