@@ -2,14 +2,143 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83df1bda-2680-4615-8cf9-56d1fb3c481e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example0_TestAnalyzer.java" beforeDir="false" afterPath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example0_TestAnalyzer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/TestShiro.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/User.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/shiro.ini" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/ss.java" beforeDir="false" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk18_2_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/aggs_matrix_stats_client_6_2_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/Java高级特性/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/数据库/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/README.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DatabaseRealm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/TestShiro.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/rbac.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/shiro.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DAO.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DatabaseRealm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5Encryption.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5SaltEncryption.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestShiro.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/User.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/e3.sql" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro1.ini" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/设计模式/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/java学习总结.iml" afterPath="$PROJECT_DIR$/.idea/java学习总结.iml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_25.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_io_1_3_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_1_3_2.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Java高级特性/Java高级特性.iml" afterPath="$PROJECT_DIR$/Java高级特性/Java高级特性.iml" />
+      <change beforePath="$PROJECT_DIR$/Java高级特性/exalple0流/Example0_flatMap.java" afterPath="$PROJECT_DIR$/Java高级特性/src/main/java/example0流/Example0_flatMap.java" />
+      <change beforePath="$PROJECT_DIR$/Java高级特性/exalple0流/README.txt" afterPath="$PROJECT_DIR$/Java高级特性/src/main/java/example0流/README.txt" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/BestTimeToBuyAndSellStock.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg121买卖股票的最佳时机/BestTimeToBuyAndSellStock.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/Standard_solution.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg121买卖股票的最佳时机/Standard_solution.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/readME.txt" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg121买卖股票的最佳时机/readME.txt" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/add_two_numbers.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/add_two_numbers.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/readME.txt" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/readME.txt" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/standard_solution.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/standard_solution.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/median_of_two_sorted_arrays.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/median_of_two_sorted_arrays.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/readME.txt" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/readME.txt" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/standard_solution.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/standard_solution.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/Longest_palindromic_substring.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg5最长回文子串/Longest_palindromic_substring.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/Standard_solution1_expandAroundCenter.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg5最长回文子串/Standard_solution1_expandAroundCenter.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/readMe" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg5最长回文子串/readMe" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg7整数反转/Solution.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg7整数反转/Solution.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg7整数反转/readME.txt" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg7整数反转/readME.txt" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/README.md" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/README.md" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/力扣刷题.iml" afterPath="$PROJECT_DIR$/力扣刷题/力扣刷题.iml" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" afterPath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/notes/2.3_原子操作的实现原理" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/notes/2.3_原子操作的实现原理" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter3_Java内存模型/notes/3.1内存模型的基础.md" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter3_Java内存模型/notes/3.1内存模型的基础.md" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter3_Java内存模型/ss.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter3_Java内存模型/ss.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example0_Padding方式.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example0_Padding方式.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example1_Contended注解方式.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example1_Contended注解方式.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example2_验证伪共享与缓存行填充.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example2_验证伪共享与缓存行填充.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/README.TXT" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg1认识CPUCache/README.TXT" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/OutofOrderExecution.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg2Volatile内存屏障/OutofOrderExecution.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/Volatile.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg2Volatile内存屏障/Volatile.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile.md" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile.md" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile关键字的作用、原理" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile关键字的作用、原理" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg3java并发包之原子类Automic/Example0_automic_integer.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg3java并发包之原子类Automic/Example0_automic_integer.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg3java并发包之原子类Automic/README.txt" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg3java并发包之原子类Automic/README.txt" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg4一些高性能类/Example1_CopyOnWriteArrayList.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg4一些高性能类/Example1_CopyOnWriteArrayList.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/内存屏障.md" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/内存屏障.md" />
+      <change beforePath="$PROJECT_DIR$/数据库/src/msyql/mysql定时任务" afterPath="$PROJECT_DIR$/数据库/src/main/java/msyql/mysql定时任务" />
+      <change beforePath="$PROJECT_DIR$/数据库/src/msyql/schedule.sql" afterPath="$PROJECT_DIR$/数据库/src/main/java/msyql/schedule.sql" />
+      <change beforePath="$PROJECT_DIR$/数据库/数据库.iml" afterPath="$PROJECT_DIR$/数据库/数据库.iml" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/140k_products.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/140k_products.txt" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/README.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/README.txt" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example0_TestAnalyzer.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example0_TestAnalyzer.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example1_TestLucene.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example1_TestLucene.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example2_TestLucene.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example2_TestLucene.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example3_TestLucene.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example3_TestLucene.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example4_TestLucene.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example4_TestLucene.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/README.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/README.txt" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example0_TestSolr4j.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example0_TestSolr4j.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example1_TestSolr4j.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example1_TestSolr4j.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example2_TestSolr4j.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example2_TestSolr4j.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example3_TestSolr4j.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example3_TestSolr4j.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Product.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Product.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/README.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/README.txt" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example0_TestElasticSearch4J.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example0_TestElasticSearch4J.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example1_TestElasticSearch4J.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example1_TestElasticSearch4J.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example2_TestElasticSearch4J.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example2_TestElasticSearch4J.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example3_TestElasticSearch4J.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example3_TestElasticSearch4J.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/README.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/README.txt" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/Product.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/Product.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/ProductUtil.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/ProductUtil.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/SolrUtil.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/SolrUtil.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/TestShiro.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/TestShiro.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/User.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/User.java" />
+      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/shiro.ini" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/shiro.ini" />
+      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/ss.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/框架/框架.iml" afterPath="$PROJECT_DIR$/框架/框架.iml" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/test.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/test.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/test1.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/test1.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton1.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton1.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton1_1.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton1_1.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton1_2.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton1_2.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton1_3.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton1_3.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton2.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton2.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton3.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton3.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton4.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton4.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton4_1.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton4_1.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/test.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/test.java" />
+      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/总结" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/总结" />
+      <change beforePath="$PROJECT_DIR$/设计模式/设计模式.iml" afterPath="$PROJECT_DIR$/设计模式/设计模式.iml" />
     </list>
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/Java高级特性b/target/" />
+    <ignored path="$PROJECT_DIR$/框架a/target/" />
+    <ignored path="$PROJECT_DIR$/力扣刷题a/target/" />
+    <ignored path="$PROJECT_DIR$/多线程到底层a/target/" />
+    <ignored path="$PROJECT_DIR$/数据库a/target/" />
+    <ignored path="$PROJECT_DIR$/设计模式a/target/" />
+    <ignored path="$PROJECT_DIR$/Java高级特性/target/" />
+    <ignored path="$PROJECT_DIR$/设计模式/target/" />
+    <ignored path="$PROJECT_DIR$/多线程到底层/target/" />
+    <ignored path="$PROJECT_DIR$/框架/target/" />
+    <ignored path="$PROJECT_DIR$/数据库/target/" />
+    <ignored path="$PROJECT_DIR$/力扣刷题/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -36,6 +165,130 @@
     <option name="testRunner" value="GRADLE" />
     <option name="delegatedBuild" value="true" />
   </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="DAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1995">
+              <caret line="138" column="1" lean-forward="false" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1587021089334" expanded="true" signature="764:799" ph="insert into user... " />
+                <marker date="1587021089334" expanded="true" signature="1391:1431" ph="select passw... user" />
+                <marker date="1587021089334" expanded="true" signature="1892:1925" ph="select * fro... user" />
+                <marker date="1587021089334" expanded="true" signature="2627:2806" ph="select r.nam... user" />
+                <marker date="1587021089334" expanded="true" signature="3336:3677" ph="select p.nam... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DAO.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DAO.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1425">
+              <caret line="101" column="1" lean-forward="false" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <marker date="1587021775576" expanded="true" signature="777:817" ph="select passw... user" />
+                <marker date="1587021775576" expanded="true" signature="1308:1487" ph="select r.nam... user" />
+                <marker date="1587021775576" expanded="true" signature="2017:2358" ph="select p.nam... user" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestShiro.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestShiro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="215">
+              <caret line="46" column="185" lean-forward="false" selection-start-line="46" selection-start-column="185" selection-end-line="46" selection-end-column="185" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="TestShiro.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/TestShiro.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="840">
+              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shiro.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="shiro1.ini" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro1.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseRealm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DatabaseRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="600">
+              <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DatabaseRealm.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DatabaseRealm.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-63">
+              <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/README.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="15">
+              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Md5SaltEncryption.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5SaltEncryption.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="18" column="106" lean-forward="false" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="106" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
@@ -47,12 +300,70 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="GradleLocalSettings">
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/框架/E0搜索引擎框架/java/test.java" />
+        <option value="$PROJECT_DIR$/设计模式/src/test1.java" />
+        <option value="$PROJECT_DIR$/框架a/pom.xml" />
+        <option value="$PROJECT_DIR$/框架a/src/main/java/test.java" />
+        <option value="$PROJECT_DIR$/Java高级特性/pom.xml" />
+        <option value="$PROJECT_DIR$/力扣刷题/pom.xml" />
+        <option value="$PROJECT_DIR$/多线程到底层/pom.xml" />
+        <option value="$PROJECT_DIR$/数据库/pom.xml" />
+        <option value="$PROJECT_DIR$/设计模式/pom.xml" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils1/SolrUtil.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/SolrUtil.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example1_TestSolr4j.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example0_TestSolr4j.java" />
+        <option value="$PROJECT_DIR$/框架/pom.xml" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example1_TestElasticSearch4J.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example2_TestElasticSearch4J.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example3_TestElasticSearch4J.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example2_TestSolr4j.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example3_TestSolr4j.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/TestShiro.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/rbac.sql" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/User.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/DAO.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example4_TestLucene.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example3_TestLucene.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/DatabaseRealm.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/shiro.ini" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/TestShiro.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestEncryption.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5Encryption.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5SaltEncryption.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/e3.sql" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/User.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DAO.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro2.ini" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro.ini" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro1.ini" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestShiro.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DatabaseRealm.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/README.txt" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
-        <option name="localRepository" value="E:\chengzhen\maven\repository" />
+        <option name="localRepository" value="$PROJECT_DIR$/../../maven/repository" />
         <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.5.0" />
-        <option name="userSettingsFile" value="E:\chengzhen\maven\apache-maven-3.5.0\conf\settings.xml" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.1/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
     <option name="importingSettings">
@@ -61,9 +372,67 @@
       </MavenImportingSettings>
     </option>
   </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="Java高级特性" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="框架" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="框架" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="42" />
+    <option name="y" value="23" />
+    <option name="width" value="1398" />
+    <option name="height" value="877" />
+  </component>
   <component name="ProjectId" id="1UVoJ7MJ983Si4NrBp9GF16m1I1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="AndroidView" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="mysql" />
@@ -77,37 +446,39 @@
     <property name="aspect.path.notification.shown" value="true" />
     <property name="full.screen.before.presentation.mode" value="false" />
     <property name="last_directory_selection" value="$PROJECT_DIR$/框架/搜索引擎框架/example2_elasticsearch/com" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Java高级特性" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/多线程到底层a/src/main/java/资料总结/网上资料总结" />
+      <recent name="$PROJECT_DIR$/力扣刷题a/src/main/java" />
+      <recent name="$PROJECT_DIR$/框架a/src/main/java/E0搜索引擎框架" />
+      <recent name="$PROJECT_DIR$/Java高级特性b/src/main/java/example0流" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\E0搜索引擎框架" />
+    </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="" />
       <recent name="com" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\Java高级特性" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\E1安全框架" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\lib" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\lib" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\elasticsearch" />
-    </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="E1安全框架.shiro.example3加密" />
+      <recent name="E1安全框架.shiro.example1数据库" />
       <recent name="example2_elasticsearch" />
       <recent name="com.how2java2" />
     </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\E0搜索引擎框架" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\E1安全框架" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\E1安全框架\java\shiro\example0入门" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\java" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\框架\搜索引擎框架\example2_elasticsearch" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密" />
+      <recent name="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库" />
+      <recent name="$PROJECT_DIR$/框架/src/main/java/lib" />
+      <recent name="$PROJECT_DIR$/框架a/src/main/java/E1安全框架" />
+      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\Java高级特性" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -122,75 +493,131 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestShiro (1)">
-    <configuration name="Example0_flatMap" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Example0_flatMap" />
-      <module name="Java高级特性" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example2_TestElasticSearch4J (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example2_elasticsearch.Example2_TestElasticSearch4J" />
-      <module name="框架" />
-      <extension name="coverage">
+  <component name="RunManager" selected="Application.TestShiro">
+    <configuration name="DAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="example2_elasticsearch.*" />
+          <option name="PATTERN" value="E1安全框架.shiro.example1数据库支持.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Example3_TestElasticSearch4J" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="example2_elasticsearch.Example3_TestElasticSearch4J" />
+      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example1数据库支持.DAO" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="框架" />
-      <extension name="coverage">
+      <envs />
+    </configuration>
+    <configuration name="Md5Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="example2_elasticsearch.*" />
+          <option name="PATTERN" value="E1安全框架.shiro.example3加密.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="TestShiro (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shiro.example0入门.TestShiro" />
+      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example3加密.Md5Encryption" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
       <module name="框架" />
-      <extension name="coverage">
+      <envs />
+    </configuration>
+    <configuration name="Md5SaltEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="shiro.example0入门.*" />
+          <option name="PATTERN" value="E1安全框架.shiro.example3加密.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example3加密.Md5SaltEncryption" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="框架" />
+      <envs />
     </configuration>
     <configuration name="TestShiro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="shiro.TestShiro" />
-      <module name="框架" />
-      <extension name="coverage">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="shiro.*" />
+          <option name="PATTERN" value="E1安全框架.shiro.example3加密.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
+      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example3加密.TestShiro" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="框架" />
+      <envs />
     </configuration>
+    <configuration name="TestShiro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="E1安全框架.shiro.example1数据库支持.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example1数据库支持.TestShiro" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="框架" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="力扣刷题" />
+      <envs />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Application.DAO" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Md5Encryption" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Md5SaltEncryption" />
+      <item index="3" class="java.lang.String" itemvalue="Application.TestShiro" />
+    </list>
     <recent_temporary>
-      <list>
-        <item itemvalue="Application.TestShiro (1)" />
-        <item itemvalue="Application.Example0_flatMap" />
-        <item itemvalue="Application.TestShiro" />
-        <item itemvalue="Application.Example3_TestElasticSearch4J" />
-        <item itemvalue="Application.Example2_TestElasticSearch4J (1)" />
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="Application.TestShiro" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Md5SaltEncryption" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Md5Encryption" />
+        <item index="3" class="java.lang.String" itemvalue="Application.DAO" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -225,6 +652,10 @@
       <workItem from="1579077346600" duration="920000" />
       <workItem from="1579136916624" duration="7011000" />
       <workItem from="1579398325621" duration="7602000" />
+      <workItem from="1586951653523" duration="6753000" />
+      <workItem from="1586963595581" duration="9855000" />
+      <workItem from="1587022615904" duration="20000" />
+      <workItem from="1587022684768" duration="4779000" />
     </task>
     <task id="LOCAL-00001" summary="1.create the project">
       <created>1565861924181</created>
@@ -250,8 +681,47 @@
     <option name="localTasksCounter" value="4" />
     <servers />
   </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="21407000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="42" y="23" width="1398" height="877" extended-state="0" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26106194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -259,6 +729,12 @@
         <entry key="MAIN">
           <value>
             <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
               <option name="COLUMN_ORDER" />
             </State>
           </value>
@@ -266,9 +742,480 @@
       </map>
     </option>
   </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="1.create the project" />
     <MESSAGE value="1.create the project&#10;2.complete some problems" />
     <option name="LAST_COMMIT_MESSAGE" value="1.create the project&#10;2.complete some problems" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/设计模式/src/main/java/test1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架a/src/main/java/test.java" />
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java高级特性/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/力扣刷题.iml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程到底层/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设计模式/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/LICENSE">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example0_TestAnalyzer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example1_TestLucene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example2_TestLucene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/框架/src/main/java/lib/securesm-1.2.jar!/org/elasticsearch/SecureSM.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/框架/src/main/java/lib/securesm-1.2.jar!/org/elasticsearch/ThreadPermission.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/ProductUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-7">
+          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/SolrUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="57" column="50" lean-forward="false" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example0_TestElasticSearch4J.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-468">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example2_TestElasticSearch4J.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-502">
+          <caret line="43" column="45" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example0_TestSolr4j.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example1_TestSolr4j.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example2_TestSolr4j.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example3_TestSolr4j.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-153">
+          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Product.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example1_TestElasticSearch4J.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="33" column="10" lean-forward="false" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example3_TestElasticSearch4J.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="160" column="1" lean-forward="false" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/rbac.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="130">
+          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="423">
+          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example4_TestLucene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1681">
+          <caret line="127" column="17" lean-forward="false" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example3_TestLucene.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="92" column="18" lean-forward="false" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/shiro.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/ss.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/TestShiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/User.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/shiro.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/e3.sql">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5Encryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5SaltEncryption.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="18" column="106" lean-forward="false" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="106" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1995">
+          <caret line="138" column="1" lean-forward="false" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1587021089334" expanded="true" signature="764:799" ph="insert into user... " />
+            <marker date="1587021089334" expanded="true" signature="1391:1431" ph="select passw... user" />
+            <marker date="1587021089334" expanded="true" signature="1892:1925" ph="select * fro... user" />
+            <marker date="1587021089334" expanded="true" signature="2627:2806" ph="select r.nam... user" />
+            <marker date="1587021089334" expanded="true" signature="3336:3677" ph="select p.nam... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DAO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1425">
+          <caret line="101" column="1" lean-forward="false" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <marker date="1587021775576" expanded="true" signature="777:817" ph="select passw... user" />
+            <marker date="1587021775576" expanded="true" signature="1308:1487" ph="select r.nam... user" />
+            <marker date="1587021775576" expanded="true" signature="2017:2358" ph="select p.nam... user" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DatabaseRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/TestShiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro2.ini" />
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro1.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestShiro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="215">
+          <caret line="46" column="185" lean-forward="false" selection-start-line="46" selection-start-column="185" selection-end-line="46" selection-end-column="185" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DatabaseRealm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-63">
+          <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>java学习总结</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>lib1</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+  <component name="mavenExecuteGoalHistory">
+    <option value="$PROJECT_DIR$" />
+    <option value="-U idea:idea" />
   </component>
 </project>

@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/数据库/src/msyql/schedule.sql" dialect="GenericSQL" />
+    <file url="file://$PROJECT_DIR$/数据库/src/main/java/msyql/schedule.sql" dialect="MySQL" />
+    <file url="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/e3.sql" dialect="MySQL" />
   </component>
 </project>

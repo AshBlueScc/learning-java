@@ -6,7 +6,16 @@
 
     <groupId>groupId</groupId>
     <artifactId>java学习总结</artifactId>
+    <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
+    <modules>
+        <module>Java高级特性</module>
+        <module>框架</module>
+        <module>力扣刷题</module>
+        <module>多线程到底层</module>
+        <module>数据库</module>
+        <module>设计模式</module>
+    </modules>
 
     <dependencies>
         <!--添加fastjson依赖-->
@@ -20,7 +29,15 @@
             <groupId>net.sf.json-lib</groupId>
             <artifactId>json-lib</artifactId>
             <version>2.4</version>
-            <classifier>jdk15</classifier>
+            <classifier>jdk18</classifier>
+        </dependency>
+
+        <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->
+        <dependency>
+            <groupId>org.projectlombok</groupId>
+            <artifactId>lombok</artifactId>
+            <version>1.18.10</version>
+            <scope>provided</scope>
         </dependency>
 
     </dependencies>
