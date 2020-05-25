@@ -4,8 +4,10 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Java高级特性/Java高级特性.iml" filepath="$PROJECT_DIR$/Java高级特性/Java高级特性.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/java学习总结.iml" filepath="$PROJECT_DIR$/.idea/java学习总结.iml" />
+      <module fileurl="file://$PROJECT_DIR$/一些测试/一些测试.iml" filepath="$PROJECT_DIR$/一些测试/一些测试.iml" />
       <module fileurl="file://$PROJECT_DIR$/力扣刷题/力扣刷题.iml" filepath="$PROJECT_DIR$/力扣刷题/力扣刷题.iml" />
       <module fileurl="file://$PROJECT_DIR$/多线程到底层/多线程到底层.iml" filepath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" />
+      <module fileurl="file://$PROJECT_DIR$/工具类库/工具类库.iml" filepath="$PROJECT_DIR$/工具类库/工具类库.iml" />
       <module fileurl="file://$PROJECT_DIR$/数据库/数据库.iml" filepath="$PROJECT_DIR$/数据库/数据库.iml" />
       <module fileurl="file://$PROJECT_DIR$/框架/框架.iml" filepath="$PROJECT_DIR$/框架/框架.iml" />
       <module fileurl="file://$PROJECT_DIR$/设计模式/设计模式.iml" filepath="$PROJECT_DIR$/设计模式/设计模式.iml" />

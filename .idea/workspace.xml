@@ -2,127 +2,146 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83df1bda-2680-4615-8cf9-56d1fb3c481e" name="Default Changelist" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk18_2_4.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_projectlombok_lombok_1_18_10.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/aggs_matrix_stats_client_6_2_2.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/lib1.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/Java高级特性/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/数据库/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/pom.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/README.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DAO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DatabaseRealm.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/TestShiro.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/rbac.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/shiro.ini" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DAO.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DatabaseRealm.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5Encryption.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5SaltEncryption.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestShiro.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/User.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/e3.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro.ini" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro1.ini" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/设计模式/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__aopalliance_aopalliance_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__c3p0_c3p0_0_9_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_classic_1_1_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__ch_qos_logback_logback_core_1_1_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alipay_sdk_alipay_sdk_java_4_8_73_ALL.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_aliyun_aliyun_java_sdk_ons_3_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_auth0_java_jwt_3_8_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_classmate_1_4_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_annotations_2_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_core_2_9_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_core_jackson_databind_2_8_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_xml_2_9_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_dataformat_jackson_dataformat_yaml_2_7_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_jackson_module_jackson_module_jaxb_annotations_2_9_9.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_fasterxml_woodstox_woodstox_core_5_1_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_wxpay_wxpay_sdk_0_0_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_code_gson_gson_2_8_5.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_google_guava_guava_20_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_thoughtworks_xstream_xstream_1_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_codec_commons_codec_1_10.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_io_commons_io_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__dom4j_dom4j_1_6_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_jsonwebtoken_jjwt_0_9_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_buffer_4_1_17_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_4_1_17_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_codec_dns_4_1_17_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_common_4_1_17_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_handler_4_1_17_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_4_1_17_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_resolver_dns_4_1_17_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_netty_netty_transport_4_1_17_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_projectreactor_reactor_core_3_1_1_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_core_2_9_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_schema_2_9_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spi_2_9_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_spring_web_2_9_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger2_2_9_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_common_2_9_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_springfox_springfox_swagger_ui_2_9_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_annotations_1_5_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__io_swagger_swagger_models_1_5_22.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__javax_cache_cache_api_1_0_0.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jaxen_jaxen_1_1_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__joda_time_joda_time_2_9_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__junit_junit_4_11.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__mysql_mysql_connector_java_5_1_47.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_bytebuddy_byte_buddy_1_6_14.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_openhft_zero_allocation_hashing_0_8.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_lang3_3_8_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpclient_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpcore_4_4_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_httpcomponents_httpmime_4_5_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_jdbc_8_5_39.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_tomcat_tomcat_juli_8_5_39.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_aspectj_aspectjrt_1_9_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_bouncycastle_bcprov_jdk15on_1_60.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_codehaus_woodstox_stax2_api_3_1_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_hamcrest_hamcrest_core_1_3.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_bean_3_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_jodd_jodd_core_3_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mapstruct_mapstruct_1_2_0_Final.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_3_4_6.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_mybatis_spring_1_3_2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_autoconfigure_1_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_mybatis_spring_boot_mybatis_spring_boot_starter_1_3_4.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_reactivestreams_reactive_streams_1_0_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_redisson_redisson_3_5_7.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jcl_over_slf4j_1_7_26.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_jul_to_slf4j_1_7_26.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_log4j_over_slf4j_1_7_26.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_25.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_1_5_20_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_autoconfigure_1_5_20_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_1_5_20_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_jpa_unknown.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_data_redis_unknown.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_jdbc_1_5_20_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_logging_1_5_20_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_boot_spring_boot_starter_mail_unknown.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_mongodb_unknown.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_core_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_plugin_spring_plugin_metadata_1_2_0_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_session_spring_session_data_redis_unknown.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_23_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_4_0_9_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jdbc_4_3_23_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_4_3_23_RELEASE.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_yaml_snakeyaml_1_17.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__redis_clients_jedis_2_7_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xml_apis_xml_apis_1_0_b2.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xmlpull_xmlpull_1_1_3_1.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__xpp3_xpp3_min_1_1_4c.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/一些测试/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/一些测试/src/main/java/帮人写的一些demo/PartsBonus.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/一些测试/src/main/java/帮人写的一些demo/PositionNums.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/一些测试/src/main/java/异常测试/ExceptionTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/一些测试/一些测试.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/README.TXT" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/ThreeDoors.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/README" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p11lambda表达式简介/Main.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p4And5内存溢出问题分析与解决/Demo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p4And5内存溢出问题分析与解决/Jvm.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/java_jwt/JavaJWTDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/java_jwt/README.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/jjwt/JWTDemo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/jjwt/REAMDE.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/BeanUtil.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/README.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/Student.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/Student2.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/jsonUtils/DateTest.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/jsonUtils/Demo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/randomStringUtils/Demo.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XMLUtils.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamInitializer.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/xStream.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/resources/c3p0-config.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/test/java/jjwt/JWTDemoTest1.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/工具类库.iml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/数据库/src/main/java/redis/RedisTest.java" />
       <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/java学习总结.iml" afterPath="$PROJECT_DIR$/.idea/java学习总结.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_25.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_alibaba_fastjson_1_2_25.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_json_lib_json_lib_jdk15_2_4.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_io_1_3_2.xml" afterPath="$PROJECT_DIR$/.idea/libraries/commons_io_1_3_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="$PROJECT_DIR$/.idea/libraries/lib.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib__2_.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/Java高级特性/Java高级特性.iml" afterPath="$PROJECT_DIR$/Java高级特性/Java高级特性.iml" />
-      <change beforePath="$PROJECT_DIR$/Java高级特性/exalple0流/Example0_flatMap.java" afterPath="$PROJECT_DIR$/Java高级特性/src/main/java/example0流/Example0_flatMap.java" />
-      <change beforePath="$PROJECT_DIR$/Java高级特性/exalple0流/README.txt" afterPath="$PROJECT_DIR$/Java高级特性/src/main/java/example0流/README.txt" />
       <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/BestTimeToBuyAndSellStock.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg121买卖股票的最佳时机/BestTimeToBuyAndSellStock.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/Standard_solution.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg121买卖股票的最佳时机/Standard_solution.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg121买卖股票的最佳时机/readME.txt" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg121买卖股票的最佳时机/readME.txt" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/add_two_numbers.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/add_two_numbers.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/readME.txt" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/readME.txt" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg2两数相加/standard_solution.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/standard_solution.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/median_of_two_sorted_arrays.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/median_of_two_sorted_arrays.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/readME.txt" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/readME.txt" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg4寻找两个有序数组的中位数/standard_solution.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/standard_solution.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/Longest_palindromic_substring.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg5最长回文子串/Longest_palindromic_substring.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/Standard_solution1_expandAroundCenter.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg5最长回文子串/Standard_solution1_expandAroundCenter.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg5最长回文子串/readMe" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg5最长回文子串/readMe" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg7整数反转/Solution.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg7整数反转/Solution.java" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/Eg7整数反转/readME.txt" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/Eg7整数反转/readME.txt" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/README.md" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/README.md" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/力扣刷题.iml" afterPath="$PROJECT_DIR$/力扣刷题/力扣刷题.iml" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/pom.xml" afterPath="$PROJECT_DIR$/多线程到底层/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" />
       <change beforePath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" afterPath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/notes/2.3_原子操作的实现原理" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/notes/2.3_原子操作的实现原理" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter3_Java内存模型/notes/3.1内存模型的基础.md" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter3_Java内存模型/notes/3.1内存模型的基础.md" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/读书笔记/java并发编程的艺术/chapter3_Java内存模型/ss.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter3_Java内存模型/ss.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example0_Padding方式.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example0_Padding方式.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example1_Contended注解方式.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example1_Contended注解方式.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example2_验证伪共享与缓存行填充.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg1认识CPUCache/CacheLine伪共享处理方案/Example2_验证伪共享与缓存行填充.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg1认识CPUCache/README.TXT" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg1认识CPUCache/README.TXT" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/OutofOrderExecution.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg2Volatile内存屏障/OutofOrderExecution.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/Volatile.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg2Volatile内存屏障/Volatile.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile.md" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile.md" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile关键字的作用、原理" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg2Volatile内存屏障/volatile关键字的作用、原理" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg3java并发包之原子类Automic/Example0_automic_integer.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg3java并发包之原子类Automic/Example0_automic_integer.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg3java并发包之原子类Automic/README.txt" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg3java并发包之原子类Automic/README.txt" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/Eg4一些高性能类/Example1_CopyOnWriteArrayList.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/Eg4一些高性能类/Example1_CopyOnWriteArrayList.java" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/资料总结/网上资料总结/内存屏障.md" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/内存屏障.md" />
-      <change beforePath="$PROJECT_DIR$/数据库/src/msyql/mysql定时任务" afterPath="$PROJECT_DIR$/数据库/src/main/java/msyql/mysql定时任务" />
-      <change beforePath="$PROJECT_DIR$/数据库/src/msyql/schedule.sql" afterPath="$PROJECT_DIR$/数据库/src/main/java/msyql/schedule.sql" />
+      <change beforePath="$PROJECT_DIR$/数据库/pom.xml" afterPath="$PROJECT_DIR$/数据库/pom.xml" />
       <change beforePath="$PROJECT_DIR$/数据库/数据库.iml" afterPath="$PROJECT_DIR$/数据库/数据库.iml" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/140k_products.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/140k_products.txt" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/README.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/README.txt" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example0_TestAnalyzer.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example0_TestAnalyzer.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example1_TestLucene.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example1_TestLucene.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example2_TestLucene.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example2_TestLucene.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example3_TestLucene.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example3_TestLucene.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/Example4_TestLucene.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example4_TestLucene.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example0_lucene/README.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/README.txt" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example0_TestSolr4j.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example0_TestSolr4j.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example1_TestSolr4j.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example1_TestSolr4j.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example2_TestSolr4j.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example2_TestSolr4j.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Example3_TestSolr4j.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example3_TestSolr4j.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/Product.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Product.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example1_solr/README.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/README.txt" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example0_TestElasticSearch4J.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example0_TestElasticSearch4J.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example1_TestElasticSearch4J.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example1_TestElasticSearch4J.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example2_TestElasticSearch4J.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example2_TestElasticSearch4J.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/Example3_TestElasticSearch4J.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example3_TestElasticSearch4J.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/example2_elasticsearch/README.txt" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/README.txt" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/Product.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/Product.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/ProductUtil.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/ProductUtil.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E0搜索引擎框架/java/utils/SolrUtil.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/SolrUtil.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/TestShiro.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/TestShiro.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/User.java" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/User.java" />
-      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/example0入门/shiro.ini" afterPath="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/shiro.ini" />
-      <change beforePath="$PROJECT_DIR$/框架/E1安全框架/java/shiro/ss.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/框架/框架.iml" afterPath="$PROJECT_DIR$/框架/框架.iml" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/test.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/test.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/test1.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/test1.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton1.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton1.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton1_1.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton1_1.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton1_2.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton1_2.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton1_3.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton1_3.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton2.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton2.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton3.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton3.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton4.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton4.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/Singleton4_1.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/Singleton4_1.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/test.java" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/test.java" />
-      <change beforePath="$PROJECT_DIR$/设计模式/src/单例模式/总结" afterPath="$PROJECT_DIR$/设计模式/src/main/java/单例模式/总结" />
-      <change beforePath="$PROJECT_DIR$/设计模式/设计模式.iml" afterPath="$PROJECT_DIR$/设计模式/设计模式.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/Java高级特性b/target/" />
@@ -137,15 +156,14 @@
     <ignored path="$PROJECT_DIR$/框架/target/" />
     <ignored path="$PROJECT_DIR$/数据库/target/" />
     <ignored path="$PROJECT_DIR$/力扣刷题/target/" />
+    <ignored path="$PROJECT_DIR$/工具类库/target/" />
+    <ignored path="$PROJECT_DIR$/一些测试/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
-  </component>
-  <component name="CodeInsightWorkspaceSettings">
-    <option name="optimizeImportsOnTheFly" value="true" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -167,119 +185,105 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="DAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1995">
-              <caret line="138" column="1" lean-forward="false" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1587021089334" expanded="true" signature="764:799" ph="insert into user... " />
-                <marker date="1587021089334" expanded="true" signature="1391:1431" ph="select passw... user" />
-                <marker date="1587021089334" expanded="true" signature="1892:1925" ph="select * fro... user" />
-                <marker date="1587021089334" expanded="true" signature="2627:2806" ph="select r.nam... user" />
-                <marker date="1587021089334" expanded="true" signature="3336:3677" ph="select p.nam... user" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DAO.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DAO.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1425">
-              <caret line="101" column="1" lean-forward="false" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <marker date="1587021775576" expanded="true" signature="777:817" ph="select passw... user" />
-                <marker date="1587021775576" expanded="true" signature="1308:1487" ph="select r.nam... user" />
-                <marker date="1587021775576" expanded="true" signature="2017:2358" ph="select p.nam... user" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestShiro.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestShiro.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="215">
-              <caret line="46" column="185" lean-forward="false" selection-start-line="46" selection-start-column="185" selection-end-line="46" selection-end-column="185" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TestShiro.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/TestShiro.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="840">
-              <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shiro.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="shiro1.ini" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro1.ini">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DatabaseRealm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DatabaseRealm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="600">
-              <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="32" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="DatabaseRealm.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DatabaseRealm.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-63">
-              <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="README.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/README.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Md5SaltEncryption.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5SaltEncryption.java">
+      <file leaf-file-name="Main.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p11lambda表达式简介/Main.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
-              <caret line="18" column="106" lean-forward="false" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="106" />
+              <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Demo.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/randomStringUtils/Demo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="255">
+              <caret line="21" column="63" lean-forward="false" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XStreamInitializer.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamInitializer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Bean.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据库/src/main/java/redis/Bean.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="195">
+              <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="README" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/README">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="RedisTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/数据库/src/main/java/redis/RedisTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="278">
+              <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="XMLUtils.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XMLUtils.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-832">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="xStream.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/xStream.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="435">
+              <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DateTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/jsonUtils/DateTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-397">
+              <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+              <folding>
+                <marker date="1590412929933" expanded="true" signature="1972:2109" ph="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Person.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/Person.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -293,9 +297,15 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="FxmlFile" />
+        <option value="Arquillian JUnit Test Class" />
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>tx_isolation</find>
+    </findStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -308,52 +318,68 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/框架/E0搜索引擎框架/java/test.java" />
-        <option value="$PROJECT_DIR$/设计模式/src/test1.java" />
-        <option value="$PROJECT_DIR$/框架a/pom.xml" />
-        <option value="$PROJECT_DIR$/框架a/src/main/java/test.java" />
-        <option value="$PROJECT_DIR$/Java高级特性/pom.xml" />
-        <option value="$PROJECT_DIR$/力扣刷题/pom.xml" />
-        <option value="$PROJECT_DIR$/多线程到底层/pom.xml" />
-        <option value="$PROJECT_DIR$/数据库/pom.xml" />
-        <option value="$PROJECT_DIR$/设计模式/pom.xml" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils1/SolrUtil.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/SolrUtil.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example1_TestSolr4j.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example0_TestSolr4j.java" />
-        <option value="$PROJECT_DIR$/框架/pom.xml" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example1_TestElasticSearch4J.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example2_TestElasticSearch4J.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example3_TestElasticSearch4J.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example2_TestSolr4j.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example3_TestSolr4j.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/TestShiro.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/rbac.sql" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/BeanUtils.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/README.txt" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/Student.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/BeanUtils.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/Student2.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/C3p0Config.java" />
+        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DAO.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/BeanUtil.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/resources/c3p0-config.xml" />
         <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/User.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/DAO.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example4_TestLucene.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example3_TestLucene.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/DatabaseRealm.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/shiro.ini" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库/TestShiro.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestEncryption.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5Encryption.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5SaltEncryption.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/e3.sql" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/User.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DAO.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro2.ini" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro.ini" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro1.ini" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestShiro.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DatabaseRealm.java" />
-        <option value="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/README.txt" />
+        <option value="$PROJECT_DIR$/数据库/src/main/java/redis/testBean.java" />
+        <option value="$PROJECT_DIR$/数据库/src/main/java/redis/redis.java" />
+        <option value="$PROJECT_DIR$/数据库/pom.xml" />
+        <option value="$PROJECT_DIR$/工具类库/pom.xml" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/README" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/Jvm.java" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/rest/WechatOfficialAccountMediaRest.java" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/restV2/WechatOfficialAccountMenuRest.java" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/Demo.java" />
+        <option value="$PROJECT_DIR$/一些测试/src/main/java/异常测试/ExceptionTest.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamTransformer.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/WeChatTicketXmlMessage.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/Test.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamInitializer1.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/Person1.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/sss/Person1.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/sss/sssss/Person1.java" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/Jvm.java" />
+        <option value="$PROJECT_DIR$/一些测试/src/main/java/帮人写的一些demo/Demo.java" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p4And5内存溢出问题分析与解决/Jvm.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/README.TXT" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/ThreeDoors.java" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p11lambda表达式简介/Main.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/Test.java" />
+        <option value="$PROJECT_DIR$/一些测试/src/main/java/帮人写的一些demo/Test.java" />
+        <option value="$PROJECT_DIR$/一些测试/src/main/java/帮人写的一些demo/PartsBonus.java" />
+        <option value="$PROJECT_DIR$/一些测试/src/main/java/帮人写的一些demo/PositionNums.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/jsonUtils/test.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/jsonUtils/Demo.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/randomStringUtils/test.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/Person.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/randomStringUtils/Demo.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamInitializer.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xStream.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/DateTest.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/jsonUtils/DateTest.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/Person.java" />
+        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/xStream.java" />
+        <option value="$PROJECT_DIR$/数据库/src/main/java/redis/RedisTest.java" />
       </list>
     </option>
   </component>
   <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
   <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
   <component name="JsGulpfileManager">
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
@@ -393,10 +419,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="42" />
-    <option name="y" value="23" />
-    <option name="width" value="1398" />
-    <option name="height" value="877" />
+    <option name="x" value="46" />
+    <option name="y" value="27" />
+    <option name="width" value="1053" />
+    <option name="height" value="847" />
   </component>
   <component name="ProjectId" id="1UVoJ7MJ983Si4NrBp9GF16m1I1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -417,16 +443,61 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="Scope" />
-      <pane id="PackagesPane" />
       <pane id="Scratches" />
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
             <path>
               <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
+              <item name="p11lambda表达式简介" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -454,8 +525,15 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
   </component>
   <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="JJWT" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/多线程到底层a/src/main/java/资料总结/网上资料总结" />
       <recent name="$PROJECT_DIR$/力扣刷题a/src/main/java" />
@@ -468,17 +546,18 @@
       <recent name="com" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="utils.jsonUtils" />
+      <recent name="utils.xmlUtils" />
       <recent name="E1安全框架.shiro.example3加密" />
       <recent name="E1安全框架.shiro.example1数据库" />
       <recent name="example2_elasticsearch" />
-      <recent name="com.how2java2" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils" />
+      <recent name="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决" />
       <recent name="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密" />
       <recent name="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库" />
       <recent name="$PROJECT_DIR$/框架/src/main/java/lib" />
-      <recent name="$PROJECT_DIR$/框架a/src/main/java/E1安全框架" />
-      <recent name="E:\chengzhen\cz-idea-workspace\learning-java\Java高级特性" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -493,15 +572,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.TestShiro">
-    <configuration name="DAO" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.Demo">
+    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="E1安全框架.shiro.example1数据库支持.*" />
+          <option name="PATTERN" value="utils.randomStringUtils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example1数据库支持.DAO" />
+      <option name="MAIN_CLASS_NAME" value="utils.randomStringUtils.Demo" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -510,17 +589,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="框架" />
+      <module name="工具类库" />
       <envs />
     </configuration>
-    <configuration name="Md5Encryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Jvm" type="Application" factoryName="Application" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="E1安全框架.shiro.example3加密.*" />
+          <option name="PATTERN" value="帮人写的一些demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example3加密.Md5Encryption" />
+      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.p4And5内存溢出问题分析与解决.Jvm" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -529,36 +608,36 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="框架" />
+      <module name="多线程到底层" />
       <envs />
     </configuration>
-    <configuration name="Md5SaltEncryption" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Jvm" type="Application" factoryName="Application" temporary="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="E1安全框架.shiro.example3加密.*" />
+          <option name="PATTERN" value="utils.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example3加密.Md5SaltEncryption" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.内存溢出问题分析与解决.Jvm" />
+      <option name="VM_PARAMETERS" value="-XX:+HeapDumpOnOutOfMemoryError -Xms20m -Xmx20m" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="框架" />
+      <module name="多线程到底层" />
       <envs />
     </configuration>
-    <configuration name="TestShiro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="E1安全框架.shiro.example3加密.*" />
+          <option name="PATTERN" value="深入理解Java虚拟机.p11lambda表达式简介.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example3加密.TestShiro" />
+      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.p11lambda表达式简介.Main" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -567,17 +646,17 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="框架" />
+      <module name="多线程到底层" />
       <envs />
     </configuration>
-    <configuration name="TestShiro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="PartsBonus" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="E1安全框架.shiro.example1数据库支持.*" />
+          <option name="PATTERN" value="帮人写的一些demo.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="E1安全框架.shiro.example1数据库支持.TestShiro" />
+      <option name="MAIN_CLASS_NAME" value="帮人写的一些demo.PartsBonus" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -586,7 +665,64 @@
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
       <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="框架" />
+      <module name="一些测试" />
+      <envs />
+    </configuration>
+    <configuration name="Person1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="utils.xmlUtils.sss.sssss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="utils.xmlUtils.sss.sssss.Person1" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="工具类库" />
+      <envs />
+    </configuration>
+    <configuration name="ThreeDoors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="qw1三门问题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="qw1三门问题.ThreeDoors" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="力扣刷题" />
+      <envs />
+    </configuration>
+    <configuration name="xStream" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="utils.xmlUtils.sss.sssss.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="utils.xmlUtils.xStream" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="工具类库" />
       <envs />
     </configuration>
     <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
@@ -601,18 +737,21 @@
       <module name="力扣刷题" />
       <envs />
     </configuration>
-    <list size="4">
-      <item index="0" class="java.lang.String" itemvalue="Application.DAO" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Md5Encryption" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Md5SaltEncryption" />
-      <item index="3" class="java.lang.String" itemvalue="Application.TestShiro" />
+    <list size="6">
+      <item index="0" class="java.lang.String" itemvalue="Application.Jvm" />
+      <item index="1" class="java.lang.String" itemvalue="Application.xStream" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Demo" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Person1" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Main" />
+      <item index="5" class="java.lang.String" itemvalue="Application.ThreeDoors" />
     </list>
     <recent_temporary>
-      <list size="4">
-        <item index="0" class="java.lang.String" itemvalue="Application.TestShiro" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Md5SaltEncryption" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Md5Encryption" />
-        <item index="3" class="java.lang.String" itemvalue="Application.DAO" />
+      <list size="5">
+        <item index="0" class="java.lang.String" itemvalue="Application.Demo" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Main" />
+        <item index="2" class="java.lang.String" itemvalue="Application.ThreeDoors" />
+        <item index="3" class="java.lang.String" itemvalue="Application.xStream" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Person1" />
       </list>
     </recent_temporary>
   </component>
@@ -655,7 +794,12 @@
       <workItem from="1586951653523" duration="6753000" />
       <workItem from="1586963595581" duration="9855000" />
       <workItem from="1587022615904" duration="20000" />
-      <workItem from="1587022684768" duration="4779000" />
+      <workItem from="1587022684768" duration="5484000" />
+      <workItem from="1587113631518" duration="46528000" />
+      <workItem from="1588727102585" duration="6454000" />
+      <workItem from="1588989461852" duration="7325000" />
+      <workItem from="1589336492174" duration="16333000" />
+      <workItem from="1590310346740" duration="6231000" />
     </task>
     <task id="LOCAL-00001" summary="1.create the project">
       <created>1565861924181</created>
@@ -682,39 +826,40 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21407000" />
+    <option name="totallyTimeSpent" value="104983000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="42" y="23" width="1398" height="877" extended-state="0" />
+    <frame x="46" y="27" width="1053" height="847" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.34840426" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26106194" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33333334" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32992327" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -751,388 +896,328 @@
     <option name="LAST_COMMIT_MESSAGE" value="1.create the project&#10;2.complete some problems" />
   </component>
   <component name="XDebuggerManager">
-    <breakpoint-manager />
+    <breakpoint-manager>
+      <option name="time" value="8" />
+    </breakpoint-manager>
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/设计模式/src/main/java/test1.java">
+    <entry file="file://$PROJECT_DIR$/工具类库/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架a/src/main/java/test.java" />
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Java高级特性/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="105">
-          <caret line="7" column="33" lean-forward="false" selection-start-line="7" selection-start-column="33" selection-end-line="7" selection-end-column="33" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/力扣刷题.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="22" lean-forward="false" selection-start-line="11" selection-start-column="22" selection-end-line="11" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/数据库/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="19" lean-forward="false" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/设计模式/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="20" lean-forward="false" selection-start-line="11" selection-start-column="20" selection-end-line="11" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/LICENSE">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example0_TestAnalyzer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example1_TestLucene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example2_TestLucene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="23" column="13" lean-forward="false" selection-start-line="23" selection-start-column="13" selection-end-line="23" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/框架/src/main/java/lib/securesm-1.2.jar!/org/elasticsearch/SecureSM.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/框架/src/main/java/lib/securesm-1.2.jar!/org/elasticsearch/ThreadPermission.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="9" column="19" lean-forward="false" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/ProductUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="10" column="13" lean-forward="false" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/SolrUtil.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/utils/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="57" column="50" lean-forward="false" selection-start-line="57" selection-start-column="50" selection-end-line="57" selection-end-column="50" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example0_TestElasticSearch4J.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-468">
-          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example2_TestElasticSearch4J.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-502">
-          <caret line="43" column="45" lean-forward="false" selection-start-line="43" selection-start-column="45" selection-end-line="43" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example0_TestSolr4j.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="12" lean-forward="false" selection-start-line="18" selection-start-column="12" selection-end-line="18" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example1_TestSolr4j.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="43" lean-forward="false" selection-start-line="15" selection-start-column="43" selection-end-line="15" selection-end-column="43" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example2_TestSolr4j.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="13" lean-forward="false" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Example3_TestSolr4j.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-153">
-          <caret line="21" column="14" lean-forward="false" selection-start-line="21" selection-start-column="14" selection-end-line="21" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example1_solr/Product.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example1_TestElasticSearch4J.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="33" column="10" lean-forward="false" selection-start-line="33" selection-start-column="10" selection-end-line="33" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example2_elasticsearch/Example3_TestElasticSearch4J.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="387">
-          <caret line="160" column="1" lean-forward="false" selection-start-line="160" selection-start-column="1" selection-end-line="160" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/rbac.sql">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="442">
-          <caret line="79" column="0" lean-forward="false" selection-start-line="79" selection-start-column="0" selection-end-line="79" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="130">
-          <caret line="19" column="31" lean-forward="false" selection-start-line="19" selection-start-column="31" selection-end-line="19" selection-end-column="31" />
+        <state relative-caret-position="4080">
+          <caret line="272" column="0" lean-forward="false" selection-start-line="272" selection-start-column="0" selection-end-line="272" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/pom.xml">
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/rest/WechatOfficialAccountRest.java" />
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/rest/WechatOfficialAccountMenuRest.java" />
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/rest/BaseRest.java" />
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/rest/WechatOfficialAccountMediaRest.java" />
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/restV2/WechatOfficialAccountRest.java" />
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/restV2/WechatOfficialAccountMediaRest.java" />
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/restV2/BaseRest.java" />
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决/restV2/WechatOfficialAccountMenuRest.java" />
+    <entry file="file://$PROJECT_DIR$/一些测试/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="423">
-          <caret line="40" column="21" lean-forward="false" selection-start-line="40" selection-start-column="21" selection-end-line="40" selection-end-column="21" />
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="28" lean-forward="false" selection-start-line="15" selection-start-column="28" selection-end-line="15" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example4_TestLucene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1681">
-          <caret line="127" column="17" lean-forward="false" selection-start-line="127" selection-start-column="17" selection-end-line="127" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E0搜索引擎框架/example0_lucene/Example3_TestLucene.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="92" column="18" lean-forward="false" selection-start-line="92" selection-start-column="18" selection-end-line="92" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/shiro.ini">
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/WeChatTicketXmlMessage.java" />
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamCDataConverter.java" />
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamInitializer.java" />
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamMediaIdConverter.java" />
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamTransformer.java" />
+    <entry file="file://$PROJECT_DIR$/一些测试/一些测试.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/ss.java">
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/notes/2.3_原子操作的实现原理">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Test.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="135">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example0入门/TestShiro.java">
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/读书笔记/java并发编程的艺术/chapter2_Java并发机制的底层实现原理/examples/Counter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+        <state relative-caret-position="435">
+          <caret line="29" column="15" lean-forward="false" selection-start-line="29" selection-start-column="15" selection-end-line="29" selection-end-column="15" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/User.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="240">
-          <caret line="16" column="24" lean-forward="false" selection-start-line="16" selection-start-column="24" selection-end-line="16" selection-end-column="24" />
-          <folding />
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/资料总结/网上资料总结/内存屏障.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/shiro.ini">
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg121买卖股票的最佳时机/Standard_solution.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="30">
-          <caret line="2" column="10" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
-          <folding />
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/e3.sql">
+    <entry file="jar://$PROJECT_DIR$/../../maven/repository/commons-lang/commons-lang/2.5/commons-lang-2.5.jar!/org/apache/commons/lang/RandomStringUtils.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="15" column="25" lean-forward="false" selection-start-line="15" selection-start-column="25" selection-end-line="15" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg7整数反转/Solution.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="30">
+          <caret line="2" column="6" lean-forward="false" selection-start-line="2" selection-start-column="6" selection-end-line="2" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg121买卖股票的最佳时机/BestTimeToBuyAndSellStock.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="30" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="41" />
+          <caret line="0" column="23" lean-forward="true" selection-start-line="0" selection-start-column="23" selection-end-line="0" selection-end-column="23" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5Encryption.java">
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/README.TXT">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="12" column="39" lean-forward="false" selection-start-line="12" selection-start-column="39" selection-end-line="12" selection-end-column="39" />
+        <state relative-caret-position="0">
+          <caret line="0" column="3" lean-forward="false" selection-start-line="0" selection-start-column="3" selection-end-line="0" selection-end-column="3" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/Md5SaltEncryption.java">
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/ThreeDoors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="36" column="32" lean-forward="false" selection-start-line="36" selection-start-column="32" selection-end-line="36" selection-end-column="32" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/一些测试/src/main/java/异常测试/ExceptionTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p4And5内存溢出问题分析与解决/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" column="17" lean-forward="false" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p4And5内存溢出问题分析与解决/Jvm.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/一些测试/src/main/java/帮人写的一些demo/PositionNums.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="28" column="21" lean-forward="false" selection-start-line="28" selection-start-column="21" selection-end-line="28" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/一些测试/src/main/java/帮人写的一些demo/PartsBonus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-772">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/sss/sssss/Person1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="11" column="35" lean-forward="false" selection-start-line="11" selection-start-column="35" selection-end-line="11" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/README.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/jjwt/JWTDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/java_jwt/JavaJWTDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="13" column="13" lean-forward="false" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/jsonUtils/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="23" column="51" lean-forward="false" selection-start-line="23" selection-start-column="51" selection-end-line="23" selection-end-column="51" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/BeanUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="164" column="69" lean-forward="false" selection-start-line="164" selection-start-column="69" selection-end-line="164" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/Student.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/Student2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/randomStringUtils/Demo.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="18" column="106" lean-forward="false" selection-start-line="18" selection-start-column="91" selection-end-line="18" selection-end-column="106" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
+          <caret line="21" column="63" lean-forward="false" selection-start-line="21" selection-start-column="63" selection-end-line="21" selection-end-column="63" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DAO.java">
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/jsonUtils/DateTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1995">
-          <caret line="138" column="1" lean-forward="false" selection-start-line="138" selection-start-column="1" selection-end-line="138" selection-end-column="1" />
+        <state relative-caret-position="-397">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1587021089334" expanded="true" signature="764:799" ph="insert into user... " />
-            <marker date="1587021089334" expanded="true" signature="1391:1431" ph="select passw... user" />
-            <marker date="1587021089334" expanded="true" signature="1892:1925" ph="select * fro... user" />
-            <marker date="1587021089334" expanded="true" signature="2627:2806" ph="select r.nam... user" />
-            <marker date="1587021089334" expanded="true" signature="3336:3677" ph="select p.nam... user" />
+            <marker date="1590412929933" expanded="true" signature="1972:2109" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DAO.java">
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1425">
-          <caret line="101" column="1" lean-forward="false" selection-start-line="101" selection-start-column="1" selection-end-line="101" selection-end-column="1" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <marker date="1587021775576" expanded="true" signature="777:817" ph="select passw... user" />
-            <marker date="1587021775576" expanded="true" signature="1308:1487" ph="select r.nam... user" />
-            <marker date="1587021775576" expanded="true" signature="2017:2358" ph="select p.nam... user" />
-          </folding>
+        <state relative-caret-position="105">
+          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/DatabaseRealm.java">
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/Person.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="600">
-          <caret line="46" column="32" lean-forward="false" selection-start-line="46" selection-start-column="8" selection-end-line="46" selection-end-column="32" />
+        <state relative-caret-position="180">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库支持/TestShiro.java">
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XMLUtils.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="840">
-          <caret line="66" column="0" lean-forward="false" selection-start-line="66" selection-start-column="0" selection-end-line="66" selection-end-column="0" />
+        <state relative-caret-position="-832">
+          <caret line="19" column="13" lean-forward="false" selection-start-line="19" selection-start-column="13" selection-end-line="19" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/xStream.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="435">
+          <caret line="29" column="40" lean-forward="true" selection-start-line="29" selection-start-column="40" selection-end-line="29" selection-end-column="40" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro.ini">
+    <entry file="file://$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils/XStreamInitializer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="12" column="13" lean-forward="false" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/src/main/java/redis/RedisTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="278">
+          <caret line="72" column="22" lean-forward="true" selection-start-line="72" selection-start-column="22" selection-end-line="72" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/src/main/java/redis/Bean.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="26" lean-forward="false" selection-start-line="15" selection-start-column="26" selection-end-line="15" selection-end-column="26" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/README">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="2" selection-end-column="37" />
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro2.ini" />
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/shiro1.ini">
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p11lambda表达式简介/Main.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="51" lean-forward="false" selection-start-line="6" selection-start-column="51" selection-end-line="6" selection-end-column="51" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/TestShiro.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="215">
-          <caret line="46" column="185" lean-forward="false" selection-start-line="46" selection-start-column="185" selection-end-line="46" selection-end-column="185" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密/DatabaseRealm.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-63">
-          <caret line="47" column="43" lean-forward="false" selection-start-line="47" selection-start-column="43" selection-end-line="47" selection-end-column="43" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/README.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="0" lean-forward="true" selection-start-line="1" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+        <state relative-caret-position="255">
+          <caret line="28" column="31" lean-forward="false" selection-start-line="28" selection-start-column="31" selection-end-line="28" selection-end-column="31" />
           <folding />
         </state>
       </provider>
@@ -1202,7 +1287,7 @@
       </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>lib1</last-edited>
+          <last-edited>aggs-matrix-stats-client-6.2.2</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

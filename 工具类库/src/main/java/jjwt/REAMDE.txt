@@ -1,0 +1,8 @@
+编码是编码 加密是加密 摘要是摘要
+Base64就是个编码方式，RSA/AES才是加密，MD5就只是取摘要
+首先弄清楚这个
+JJWT是针对jwt的一个工具库，这里用来记录做一下演示demo
+参考:
+1.https://www.jianshu.com/p/99a458c62aa4
+2.https://www.jianshu.com/p/576dbf44b2ae
+3.https://www.jianshu.com/p/e88d3f8151db
