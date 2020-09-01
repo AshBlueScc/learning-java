@@ -10,6 +10,17 @@
     <modelVersion>4.0.0</modelVersion>
 
     <artifactId>多线程到底层</artifactId>
+
+    <dependencies>
+        <!-- https://mvnrepository.com/artifact/org.springframework/spring-aop -->
+        <dependency>
+            <groupId>org.springframework</groupId>
+            <artifactId>spring-aop</artifactId>
+            <version>5.1.6.RELEASE</version>
+        </dependency>
+
+    </dependencies>
+
     <build>
         <plugins>
             <plugin>

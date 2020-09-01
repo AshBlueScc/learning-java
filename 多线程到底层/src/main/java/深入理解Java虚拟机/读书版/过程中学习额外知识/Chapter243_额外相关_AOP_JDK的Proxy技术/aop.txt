@@ -1,0 +1,11 @@
+参考：
+1。https://blog.csdn.net/qq_34598667/article/details/83351122
+2。https://blog.csdn.net/qq_34598667/article/details/83352227
+3.https://blog.csdn.net/qq_34598667/article/details/83380628
+4.
+
+
+
+
+
+1。在使用Proxy代理对象的时候，对需要代理的对象有一些要求，目标对象必须是实现了接口，是面向接口编程的。（其实就是去实现目标对象实现的所有接口）

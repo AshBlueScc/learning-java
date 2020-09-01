@@ -27,7 +27,9 @@ public class BeanUtil {
 //        test1();
 //        test2();
 //        test3();
-        test4();
+//        test4();
+        test5();
+
     }
 
 
@@ -196,5 +198,20 @@ public class BeanUtil {
             // TODO Auto-generated catch block
             e.printStackTrace();
         }
+    }
+
+    public static void test5() throws Exception
+    {
+        //1.生成对象
+        Student s1 = new Student();
+        s1.setId(1);
+        System.out.println("ssss"+s1);
+
+
+        //需求：把map的属性值拷贝到S中
+        Student2 s2 = new Student2();
+        BeanUtils.copyProperties(s1, s2);
+
+        System.out.println(s2);
     }
 }

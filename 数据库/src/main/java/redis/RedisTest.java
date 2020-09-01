@@ -16,7 +16,7 @@ public class RedisTest {
     public static void main(String[] args) {
         //连接本地的redis
         Jedis jedis = new Jedis("localhost",6379);
-        jedis.auth("root");
+//        jedis.auth("root");
 
 
            jedis.hset("cid", "appid", "1");
@@ -73,5 +73,12 @@ public class RedisTest {
         jedis.close();
 
     }
+
+    /**
+     * String
+     * JSONString
+     * JSONObject
+     * Object
+     */
 }
 
