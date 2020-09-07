@@ -1,94 +1,91 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="83df1bda-2680-4615-8cf9-56d1fb3c481e" name="Default Changelist" comment="Default Changelist">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_commons_2_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_keyvalue_2_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_data_spring_data_redis_2_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_aop_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_context_support_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_expression_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_jcl_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_oxm_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_tx_5_1_4_RELEASE.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q2.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q20.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q20有效的括号.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q2两数相加.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q4.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q4寻找两个正序数组的中位数.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q5.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q5最长回文子串.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q62.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q62不同路径.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q7.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q78.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q78子集.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q7整数反转.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q8.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/每日一题/Q111.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/每日一题/Q111二叉树的最小深度.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1三门问题.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter241堆溢出.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter242虚拟机栈和本地方法栈.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter243方法区和运行时常量池溢出.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter244本机直接内存溢出.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/EnhancerTest.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/Hello.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/ProxyFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/cglib.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserService.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserServiceImpl.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserServiceImplAuth.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/aop.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/cglib/CGLIBProxyFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/proxy/JDKProxyFactory.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/test1/AddedServiceKindSpecs.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/test1/Main.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/test1/ServiceKindSpecs.java" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_3.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_commons_commons_pool2_2_4_2.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_4_0_9_RELEASE.xml" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_beans_5_1_4_RELEASE.xml" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_springframework_spring_core_4_3_23_RELEASE.xml" afterPath="" />
+    <list default="true" id="b3b1cbcf-0b3d-4935-88a5-19d37414dc12" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q11.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q11盛最多水的容器.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q14.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q14最长公共前缀.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q15.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q15三数之和.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16最接近的三数之和.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21合并两个有序链表.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23合并K个升序链表.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26删除排序数组中的重复项.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53最大子序和.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70爬楼梯.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q8字符串转换整数.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q9.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q9回文数.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/pom.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/CreateListMethods.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/DeepCopy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/Person.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/ShallowCopy.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/基本数据类型/BigDecimalAndDouble.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/基本数据类型/BoxingAndUnboxing.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/序列化/Serialization.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter3垃圾收集器与内存分配策略/Chapter321引用计数算法.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter3垃圾收集器与内存分配策略/Chapter324Finalize方法演示.java" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" afterPath="$PROJECT_DIR$/.idea/compiler.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/dataSources.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" afterPath="$PROJECT_DIR$/.idea/encodings.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/java学习总结.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Arquillian_JUnit_Release.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_beanutils_commons_beanutils_1_8_0.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_collections_commons_collections_3_2_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_lang_commons_lang_2_5.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__commons_logging_commons_logging_1_1_1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__net_sf_ezmorph_ezmorph_1_0_6.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/aggs_matrix_stats_client_6_2_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/commons_io_1_3_2.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/libraries/lib1.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
+      <change beforePath="$PROJECT_DIR$/.idea/sqldialects.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/Java高级特性/Java高级特性.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/Java高级特性/pom.xml" afterPath="$PROJECT_DIR$/Java高级特性/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/一些测试/pom.xml" afterPath="$PROJECT_DIR$/一些测试/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/一些测试/一些测试.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/力扣刷题/pom.xml" afterPath="$PROJECT_DIR$/力扣刷题/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/README.TXT" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/ThreeDoors.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/力扣刷题.iml" afterPath="$PROJECT_DIR$/力扣刷题/力扣刷题.iml" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1三门问题.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1三门问题.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/力扣刷题.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/多线程到底层/pom.xml" afterPath="$PROJECT_DIR$/多线程到底层/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/README" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/视频版/README" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p11lambda表达式简介/Main.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p24Java内存区域_Java虚拟机栈/Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p28运行时常量池/Test.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p28运行时常量池/笔记" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p4And5内存溢出问题分析与解决/Demo.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p4And5内存溢出问题分析与解决/Jvm.java" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" afterPath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter241堆溢出.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter242虚拟机栈和本地方法栈.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter243方法区和运行时常量池溢出.java" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter244本机直接内存溢出.java" afterPath="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter2Java内存区域与内存溢出异常/Chapter244本机直接内存溢出.java" />
+      <change beforePath="$PROJECT_DIR$/多线程到底层/多线程到底层.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/工具类库/pom.xml" afterPath="$PROJECT_DIR$/工具类库/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/BeanUtil.java" afterPath="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/BeanUtil.java" />
-      <change beforePath="$PROJECT_DIR$/工具类库/工具类库.iml" afterPath="$PROJECT_DIR$/工具类库/工具类库.iml" />
+      <change beforePath="$PROJECT_DIR$/工具类库/工具类库.iml" afterPath="" />
       <change beforePath="$PROJECT_DIR$/数据库/pom.xml" afterPath="$PROJECT_DIR$/数据库/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/数据库/src/main/java/redis/RedisTest.java" afterPath="$PROJECT_DIR$/数据库/src/main/java/redis/RedisTest.java" />
-      <change beforePath="$PROJECT_DIR$/数据库/数据库.iml" afterPath="$PROJECT_DIR$/数据库/数据库.iml" />
+      <change beforePath="$PROJECT_DIR$/数据库/数据库.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/框架/pom.xml" afterPath="$PROJECT_DIR$/框架/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/框架/框架.iml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/设计模式/pom.xml" afterPath="$PROJECT_DIR$/设计模式/pom.xml" />
+      <change beforePath="$PROJECT_DIR$/设计模式/设计模式.iml" afterPath="" />
     </list>
-    <ignored path="$PROJECT_DIR$/target/" />
-    <ignored path="$PROJECT_DIR$/Java高级特性b/target/" />
-    <ignored path="$PROJECT_DIR$/框架a/target/" />
-    <ignored path="$PROJECT_DIR$/力扣刷题a/target/" />
-    <ignored path="$PROJECT_DIR$/多线程到底层a/target/" />
-    <ignored path="$PROJECT_DIR$/数据库a/target/" />
-    <ignored path="$PROJECT_DIR$/设计模式a/target/" />
-    <ignored path="$PROJECT_DIR$/Java高级特性/target/" />
-    <ignored path="$PROJECT_DIR$/设计模式/target/" />
     <ignored path="$PROJECT_DIR$/多线程到底层/target/" />
     <ignored path="$PROJECT_DIR$/框架/target/" />
-    <ignored path="$PROJECT_DIR$/数据库/target/" />
-    <ignored path="$PROJECT_DIR$/力扣刷题/target/" />
-    <ignored path="$PROJECT_DIR$/工具类库/target/" />
+    <ignored path="$PROJECT_DIR$/基础类型相关/target/" />
+    <ignored path="$PROJECT_DIR$/target/" />
     <ignored path="$PROJECT_DIR$/一些测试/target/" />
+    <ignored path="$PROJECT_DIR$/设计模式/target/" />
+    <ignored path="$PROJECT_DIR$/工具类库/target/" />
+    <ignored path="$PROJECT_DIR$/数据库/target/" />
+    <ignored path="$PROJECT_DIR$/Java高级特性/target/" />
+    <ignored path="$PROJECT_DIR$/力扣刷题/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -96,152 +93,109 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="DatabaseView">
-    <option name="SHOW_INTERMEDIATE" value="true" />
-    <option name="GROUP_DATA_SOURCES" value="true" />
-    <option name="GROUP_SCHEMA" value="true" />
-    <option name="GROUP_CONTENTS" value="false" />
-    <option name="SORT_POSITIONED" value="false" />
-    <option name="SHOW_EMPTY_GROUPS" value="false" />
-    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
-    <option name="HIDDEN_KINDS">
-      <set />
-    </option>
-    <expand />
-    <select />
-  </component>
-  <component name="DefaultGradleProjectSettings">
-    <option name="testRunner" value="GRADLE" />
-    <option name="delegatedBuild" value="true" />
-  </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Hello.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/Hello.java">
+    <leaf>
+      <file leaf-file-name="Q21.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+            <state relative-caret-position="120">
+              <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="EnhancerTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/EnhancerTest.java">
+      <file leaf-file-name="Q21合并两个有序链表.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21合并两个有序链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="826">
-              <caret line="87" column="64" lean-forward="false" selection-start-line="87" selection-start-column="64" selection-end-line="87" selection-end-column="64" />
-              <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#905#906#0" expanded="true" />
-                <element signature="e#933#934#0" expanded="true" />
-                <element signature="e#4035#4036#0" expanded="true" />
-                <element signature="e#4074#4075#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserService.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserService.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
+            <state relative-caret-position="315">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="CGLIBProxyFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/cglib/CGLIBProxyFactory.java">
+      <file leaf-file-name="Q23.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="705">
-              <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="UserServiceImpl.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserServiceImpl.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-              <folding>
-                <element signature="e#266#267#0" expanded="true" />
-                <element signature="e#293#294#0" expanded="true" />
-                <element signature="e#370#371#0" expanded="true" />
-                <element signature="e#400#401#0" expanded="true" />
-                <element signature="e#450#451#0" expanded="true" />
-                <element signature="e#492#493#0" expanded="true" />
-                <element signature="e#539#540#0" expanded="true" />
-                <element signature="e#581#582#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="JDKProxyFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/proxy/JDKProxyFactory.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-37">
-              <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Chapter243方法区和运行时常量池溢出.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter243方法区和运行时常量池溢出.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="269">
-              <caret line="67" column="17" lean-forward="false" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
+            <state relative-caret-position="0">
+              <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="12" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Chapter244本机直接内存溢出.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter244本机直接内存溢出.java">
+      <file leaf-file-name="Q23合并K个升序链表.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23合并K个升序链表.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="195">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q8.txt" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q8.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="26">
-              <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+            <state relative-caret-position="453">
+              <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ProxyFactory.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/ProxyFactory.java">
+      <file leaf-file-name="Q26.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="373">
-              <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
+            <state relative-caret-position="0">
+              <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q26删除排序数组中的重复项.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26删除排序数组中的重复项.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="295">
+              <caret line="27" column="22" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="27" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q53.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q53最大子序和.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53最大子序和.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="345">
+              <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1225#1226#0" expanded="true" />
-                <element signature="e#1283#1284#0" expanded="true" />
-                <element signature="e#1310#1311#0" expanded="true" />
-                <element signature="e#1367#1368#0" expanded="true" />
-                <element signature="e#1398#1399#0" expanded="true" />
-                <element signature="e#1459#1460#0" expanded="true" />
-                <element signature="e#1496#1497#0" expanded="true" />
-                <element signature="e#1550#1551#0" expanded="true" />
+                <element signature="e#481#482#0" expanded="true" />
+                <element signature="e#562#563#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q70.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="315">
+              <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q70爬楼梯.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70爬楼梯.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="301">
+              <caret line="36" column="17" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="36" selection-end-column="17" />
+              <folding>
+                <element signature="e#775#776#0" expanded="true" />
+                <element signature="e#827#828#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -252,20 +206,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="FxmlFile" />
-        <option value="Arquillian JUnit Test Class" />
-        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
-  </component>
-  <component name="FindInProjectRecents">
-    <findStrings>
-      <find>tx_isolation</find>
-    </findStrings>
-    <replaceStrings>
-      <replace />
-    </replaceStrings>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -278,57 +221,32 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/工具类库/src/main/java/java_jwt/JavaJWTDemo.java" />
-        <option value="$PROJECT_DIR$/工具类库/src/main/java/test/WebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/工具类库/src/main/java/webSocket/WebSocketConfig.java" />
-        <option value="$PROJECT_DIR$/工具类库/src/main/java/webSocket/README.txt" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/p44内存分配_Eden区域/Test.java" />
-        <option value="$PROJECT_DIR$/数据库/pom.xml" />
-        <option value="$PROJECT_DIR$/数据库/src/main/java/redis/stringRedisTemplate框架/RedisConfig.java" />
-        <option value="$PROJECT_DIR$/数据库/src/main/java/redis/RedisTest.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/视频版/p4And5内存溢出问题分析与解决/Jvm.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter241堆溢出.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter242虚拟机栈和本地方法栈.java" />
-        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/BeanUtil.java" />
-        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/test1/ServiceKindSpecs.java" />
-        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/test1/AddedServiceKindSpecs.java" />
-        <option value="$PROJECT_DIR$/工具类库/src/main/java/utils/beanUtils/test1/Main.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q20.txt" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q20有效的括号.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q62.txt" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/CGLib/Chapter243_CGLib之Enhancer.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/Chapter243_CGLib之Enhancer.java" />
+        <option value="$PROJECT_DIR$/一些测试/pom.xml" />
+        <option value="$PROJECT_DIR$/基础类型相关/pom.xml" />
         <option value="$PROJECT_DIR$/多线程到底层/pom.xml" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/Hello.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q62不同路径.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/每日一题/Q111.txt" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/每日一题/Q111二叉树的最小深度.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q78.txt" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q78子集.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q2.txt" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q2两数相加.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q4.txt" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q5.txt" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/ProxyFactory.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q5最长回文子串.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q7.txt" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q4寻找两个正序数组的中位数.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q7整数反转.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/README.TXT" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1.txt" />
+        <option value="$PROJECT_DIR$/数据库/pom.xml" />
+        <option value="$PROJECT_DIR$/框架/pom.xml" />
+        <option value="$PROJECT_DIR$/设计模式/pom.xml" />
+        <option value="$PROJECT_DIR$/Java高级特性/pom.xml" />
+        <option value="$PROJECT_DIR$/工具类库/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/力扣刷题/pom.xml" />
         <option value="$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1三门问题.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/cglib.txt" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/EnhancerTest.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_Proxy类/aop.txt" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/aop.txt" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserService.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserServiceImpl.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/proxy/JDKProxyFactory.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserServiceImplAuth.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/cglib/CGLIBProxyFactory.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter243方法区和运行时常量池溢出.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter244本机直接内存溢出.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q8.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q15三数之和.java" />
+        <option value="$PROJECT_DIR$/基础类型相关/src/main/java/基本数据类型/BigDecimalAndDouble.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16最接近的三数之和.java" />
+        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter3垃圾收集器与内存分配策略/Chapter324Finalize方法演示.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21合并两个有序链表.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23合并K个升序链表.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26删除排序数组中的重复项.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53最大子序和.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70爬楼梯.java" />
       </list>
     </option>
   </component>
@@ -348,7 +266,7 @@
     <option name="generalSettings">
       <MavenGeneralSettings>
         <option name="localRepository" value="$PROJECT_DIR$/../../maven/repository" />
-        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.5.0" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.1" />
         <option name="userSettingsFile" value="$PROJECT_DIR$/../../maven/apache-maven-3.6.1/conf/settings.xml" />
       </MavenGeneralSettings>
     </option>
@@ -363,15 +281,21 @@
       <expand>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="Java高级特性" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="力扣刷题" type="9519ce18:MavenProjectsStructure$ProjectNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="框架" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="力扣刷题" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
         </path>
         <path>
           <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
-          <item name="框架" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="力扣刷题" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Plugins" type="7aea1407:MavenProjectsStructure$PluginsNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="力扣刷题" type="9519ce18:MavenProjectsStructure$ProjectNode" />
           <item name="Dependencies" type="f4be9f2a:MavenProjectsStructure$DependenciesNode" />
         </path>
       </expand>
@@ -379,12 +303,11 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="645" />
-    <option name="y" value="202" />
-    <option name="width" value="1498" />
-    <option name="height" value="918" />
+    <option name="x" value="37" />
+    <option name="y" value="203" />
+    <option name="width" value="1403" />
+    <option name="height" value="877" />
   </component>
-  <component name="ProjectId" id="1UVoJ7MJ983Si4NrBp9GF16m1I1" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
   </component>
@@ -394,7 +317,7 @@
       <showMembers />
       <showModules />
       <showLibraryContents />
-      <hideEmptyPackages ProjectPane="false" />
+      <hideEmptyPackages />
       <abbreviatePackageNames />
       <autoscrollToSource />
       <autoscrollFromSource />
@@ -407,29 +330,29 @@
         <subPane>
           <expand>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="力扣刷题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="力扣刷题" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="力扣刷题" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="力扣刷题" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -437,7 +360,7 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="力扣刷题" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -446,52 +369,42 @@
               <item name="企鹅精选练习50题" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="main" type="462c0819:PsiDirectoryNode" />
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
-              <item name="读书版" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
@@ -499,79 +412,37 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
               <item name="读书版" type="462c0819:PsiDirectoryNode" />
-              <item name="过程中学习额外知识" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
-              <item name="learning-java" type="b2602c69:ProjectViewProjectNode" />
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="test" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
+              <item name="读书版" type="462c0819:PsiDirectoryNode" />
+              <item name="Chapter3垃圾收集器与内存分配策略" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
-      <pane id="Scope" />
       <pane id="AndroidView" />
       <pane id="PackagesPane" />
+      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="DatabaseDriversLRU" value="mysql" />
-    <property name="Downloaded.Files.Path.Enabled" value="false" />
-    <property name="Repository.Attach.Annotations" value="false" />
-    <property name="Repository.Attach.JavaDocs" value="false" />
-    <property name="Repository.Attach.Sources" value="false" />
-    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="android.sdk.path" value="$USER_HOME$/AppData/Local/Android/Sdk" />
-    <property name="aspect.path.notification.shown" value="true" />
-    <property name="full.screen.before.presentation.mode" value="false" />
-    <property name="last_directory_selection" value="$PROJECT_DIR$/框架/搜索引擎框架/example2_elasticsearch/com" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
-    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
-    <property name="nodejs_package_manager_path" value="npm" />
-    <property name="project.structure.last.edited" value="Libraries" />
+    <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
-    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="Arquillian JUnit4" />
-  </component>
-  <component name="RecentsManager">
-    <key name="CreateTestDialog.RecentsKey">
-      <recent name="JJWT" />
-    </key>
-    <key name="CreateTestDialog.Recents.Supers">
-      <recent name="" />
-    </key>
-    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
-      <recent name="" />
-      <recent name="com" />
-    </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/工具类库/src/main/java" />
-      <recent name="$PROJECT_DIR$/工具类库/src/main/java/utils/xmlUtils" />
-      <recent name="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/内存溢出问题分析与解决" />
-      <recent name="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example3加密" />
-      <recent name="$PROJECT_DIR$/框架/src/main/java/E1安全框架/shiro/example1数据库" />
-    </key>
-    <key name="CopyClassDialog.RECENTS_KEY">
-      <recent name="utils.beanUtils.test1" />
-      <recent name="utils.jsonUtils" />
-      <recent name="utils.xmlUtils" />
-      <recent name="E1安全框架.shiro.example3加密" />
-      <recent name="E1安全框架.shiro.example1数据库" />
-    </key>
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/视频版" />
-      <recent name="$PROJECT_DIR$/多线程到底层a/src/main/java/资料总结/网上资料总结" />
-      <recent name="$PROJECT_DIR$/力扣刷题a/src/main/java" />
-      <recent name="$PROJECT_DIR$/框架a/src/main/java/E0搜索引擎框架" />
-      <recent name="$PROJECT_DIR$/Java高级特性b/src/main/java/example0流" />
-    </key>
+    <property name="settings.editor.selected.configurable" value="File.Encoding" />
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -585,146 +456,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.CGLIBProxyFactory">
-    <configuration name="CGLIBProxyFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="深入理解Java虚拟机.读书版.过程中学习额外知识.Chapter243_额外相关_AOP_JDK的Proxy技术.cglib.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.读书版.过程中学习额外知识.Chapter243_额外相关_AOP_JDK的Proxy技术.cglib.CGLIBProxyFactory" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="多线程到底层" />
-      <envs />
+  <component name="RunManager" selected="Application.Q70爬楼梯">
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="utils.randomStringUtils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="utils.randomStringUtils.Demo" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="工具类库" />
-      <envs />
-    </configuration>
-    <configuration name="EnhancerTest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="深入理解Java虚拟机.读书版.过程中学习额外知识.Chapter243_CGLib之Enhancer.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.读书版.过程中学习额外知识.Chapter243_CGLib之Enhancer.EnhancerTest" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="多线程到底层" />
-      <envs />
-    </configuration>
-    <configuration name="JDKProxyFactory" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="深入理解Java虚拟机.读书版.过程中学习额外知识.Chapter243_额外相关_AOP_JDK的Proxy技术.proxy.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.读书版.过程中学习额外知识.Chapter243_额外相关_AOP_JDK的Proxy技术.proxy.JDKProxyFactory" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="多线程到底层" />
-      <envs />
-    </configuration>
-    <configuration name="Jvm" type="Application" factoryName="Application" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="帮人写的一些demo.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.视频版.p4And5内存溢出问题分析与解决.Jvm" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="多线程到底层" />
-      <envs />
-    </configuration>
-    <configuration name="Jvm" type="Application" factoryName="Application" temporary="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="utils.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.内存溢出问题分析与解决.Jvm" />
-      <option name="VM_PARAMETERS" value="-XX:+HeapDumpOnOutOfMemoryError -Xms20m -Xmx20m" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="多线程到底层" />
-      <envs />
-    </configuration>
-    <configuration name="OutOfMemoryTest" type="Application" factoryName="Application">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="深入理解Java虚拟机.读书版.Chapter242虚拟机栈和本地方法栈" />
-      <option name="VM_PARAMETERS" value="-Xss160k" />
-      <option name="PROGRAM_PARAMETERS" value="" />
-      <option name="WORKING_DIRECTORY" value="" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
-      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="多线程到底层" />
-      <envs />
-    </configuration>
-    <configuration name="Q5最长回文子串" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Q21合并两个有序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="企鹅精选练习50题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q5最长回文子串" />
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q21合并两个有序链表" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -733,17 +483,17 @@
       <module name="力扣刷题" />
       <envs />
     </configuration>
-    <configuration name="Q7整数反转" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Q23合并K个升序链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="企鹅精选练习50题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q7整数反转" />
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q23合并K个升序链表" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
       <option name="ENABLE_SWING_INSPECTOR" value="false" />
@@ -752,34 +502,151 @@
       <module name="力扣刷题" />
       <envs />
     </configuration>
-    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+    <configuration name="Q26删除排序数组中的重复项" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="企鹅精选练习50题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q26删除排序数组中的重复项" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="力扣刷题" />
+      <envs />
+    </configuration>
+    <configuration name="Q53最大子序和" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="企鹅精选练习50题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q53最大子序和" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="力扣刷题" />
+      <envs />
+    </configuration>
+    <configuration name="Q70爬楼梯" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="企鹅精选练习50题.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q70爬楼梯" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="力扣刷题" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
       <option name="MAIN_CLASS_NAME" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
       <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="力扣刷题" />
+      <module name="" />
       <envs />
     </configuration>
-    <list size="7">
-      <item index="0" class="java.lang.String" itemvalue="Application.Jvm" />
-      <item index="1" class="java.lang.String" itemvalue="Application.OutOfMemoryTest" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Q5最长回文子串" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Q7整数反转" />
-      <item index="4" class="java.lang.String" itemvalue="Application.EnhancerTest" />
-      <item index="5" class="java.lang.String" itemvalue="Application.JDKProxyFactory" />
-      <item index="6" class="java.lang.String" itemvalue="Application.CGLIBProxyFactory" />
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <list size="5">
+      <item index="0" class="java.lang.String" itemvalue="Application.Q21合并两个有序链表" />
+      <item index="1" class="java.lang.String" itemvalue="Application.Q23合并K个升序链表" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Q26删除排序数组中的重复项" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Q53最大子序和" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Q70爬楼梯" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.CGLIBProxyFactory" />
-        <item index="1" class="java.lang.String" itemvalue="Application.JDKProxyFactory" />
-        <item index="2" class="java.lang.String" itemvalue="Application.EnhancerTest" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Q7整数反转" />
-        <item index="4" class="java.lang.String" itemvalue="Application.Q5最长回文子串" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Q70爬楼梯" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Q53最大子序和" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Q26删除排序数组中的重复项" />
+        <item index="3" class="java.lang.String" itemvalue="Application.Q23合并K个升序链表" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Q21合并两个有序链表" />
       </list>
     </recent_temporary>
   </component>
@@ -791,266 +658,157 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="83df1bda-2680-4615-8cf9-56d1fb3c481e" name="Default Changelist" comment="" />
-      <created>1565861581467</created>
+      <changelist id="b3b1cbcf-0b3d-4935-88a5-19d37414dc12" name="Default" comment="" />
+      <created>1599096169569</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1565861581467</updated>
-      <workItem from="1565861585113" duration="61148000" />
-      <workItem from="1567478961182" duration="3555000" />
-      <workItem from="1575451050527" duration="12003000" />
-      <workItem from="1575531431316" duration="2030000" />
-      <workItem from="1575596118446" duration="2120000" />
-      <workItem from="1575882632367" duration="23759000" />
-      <workItem from="1576230793126" duration="16658000" />
-      <workItem from="1577062929153" duration="8190000" />
-      <workItem from="1577670707149" duration="594000" />
-      <workItem from="1577699919843" duration="595000" />
-      <workItem from="1577781312365" duration="597000" />
-      <workItem from="1578274228850" duration="1503000" />
-      <workItem from="1578377771156" duration="5556000" />
-      <workItem from="1578477632976" duration="2867000" />
-      <workItem from="1578535898627" duration="2453000" />
-      <workItem from="1578551715652" duration="1257000" />
-      <workItem from="1578627073454" duration="76000" />
-      <workItem from="1578627184313" duration="5888000" />
-      <workItem from="1578881816399" duration="5422000" />
-      <workItem from="1578967426127" duration="3274000" />
-      <workItem from="1579077346600" duration="920000" />
-      <workItem from="1579136916624" duration="7011000" />
-      <workItem from="1579398325621" duration="7602000" />
-      <workItem from="1586951653523" duration="6753000" />
-      <workItem from="1586963595581" duration="9855000" />
-      <workItem from="1587022615904" duration="20000" />
-      <workItem from="1587022684768" duration="5484000" />
-      <workItem from="1587113631518" duration="46528000" />
-      <workItem from="1588727102585" duration="6454000" />
-      <workItem from="1588989461852" duration="7325000" />
-      <workItem from="1589336492174" duration="16333000" />
-      <workItem from="1590310346740" duration="14824000" />
-      <workItem from="1591173621872" duration="9688000" />
-      <workItem from="1591782638651" duration="4717000" />
-      <workItem from="1592467699564" duration="538000" />
-      <workItem from="1592475272303" duration="588000" />
-      <workItem from="1592788073122" duration="4783000" />
-      <workItem from="1593677491714" duration="1269000" />
-      <workItem from="1594101750969" duration="250000" />
-      <workItem from="1597048157306" duration="1766000" />
-      <workItem from="1597052651941" duration="1790000" />
-      <workItem from="1597107003878" duration="1000" />
-      <workItem from="1597112070344" duration="660000" />
-      <workItem from="1597115425783" duration="1219000" />
-      <workItem from="1597202465761" duration="2941000" />
-      <workItem from="1597281824551" duration="5415000" />
-      <workItem from="1597374718029" duration="9465000" />
-      <workItem from="1597625752904" duration="3884000" />
-      <workItem from="1597712166698" duration="6083000" />
-      <workItem from="1597798183391" duration="20202000" />
-      <workItem from="1597971098677" duration="15063000" />
-      <workItem from="1598230775335" duration="61923000" />
+      <updated>1599096169569</updated>
+      <workItem from="1599096172721" duration="44216000" />
     </task>
-    <task id="LOCAL-00001" summary="1.create the project">
-      <created>1565861924181</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1565861924182</updated>
-    </task>
-    <task id="LOCAL-00002" summary="1.create the project&#10;2.complete some problems">
-      <created>1566209555334</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1566209555334</updated>
-    </task>
-    <task id="LOCAL-00003" summary="1.create the project&#10;2.complete some problems">
-      <created>1566209589209</created>
-      <option name="number" value="00003" />
-      <option name="presentableId" value="LOCAL-00003" />
-      <option name="project" value="LOCAL" />
-      <updated>1566209589209</updated>
-    </task>
-    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="265821000" />
+    <option name="totallyTimeSpent" value="44216000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="645" y="202" width="1498" height="918" extended-state="0" />
+    <frame x="37" y="203" width="1403" height="877" extended-state="0" />
     <layout>
-      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.42424244" sideWeight="0.5028612" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32964602" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Alipay DevTools" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26125" sideWeight="0.49713877" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.31309903" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32692307" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32978722" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Alipay DevTools" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3290735" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32971212" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3135705" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.33798677" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498642" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3312034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
   </component>
-  <component name="UnknownFeatures">
-    <option featureType="com.intellij.fileTypeFactory" implementationName="*.ini" />
-  </component>
-  <component name="Vcs.Log.Tabs.Properties">
-    <option name="TAB_STATES">
-      <map>
-        <entry key="MAIN">
-          <value>
-            <State>
-              <option name="RECENTLY_FILTERED_USER_GROUPS">
-                <collection />
-              </option>
-              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
-                <collection />
-              </option>
-              <option name="COLUMN_ORDER">
-                <list>
-                  <option value="0" />
-                  <option value="1" />
-                  <option value="2" />
-                  <option value="3" />
-                </list>
-              </option>
-            </State>
-          </value>
-        </entry>
-      </map>
-    </option>
-  </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="VcsManagerConfiguration">
-    <MESSAGE value="1.create the project" />
-    <MESSAGE value="1.create the project&#10;2.complete some problems" />
-    <option name="LAST_COMMIT_MESSAGE" value="1.create the project&#10;2.complete some problems" />
-  </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
-      <option name="time" value="15" />
+      <breakpoints-dialog>
+        <breakpoints-dialog />
+      </breakpoints-dialog>
+      <option name="time" value="10" />
     </breakpoint-manager>
     <watches-manager />
   </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/Chapter243_CGLib之Enhancer.java" />
+    <entry file="file://$PROJECT_DIR$/一些测试/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础类型相关/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程到底层/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/数据库/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/框架/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/设计模式/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="75">
+          <caret line="5" column="33" lean-forward="false" selection-start-line="5" selection-start-column="33" selection-end-line="5" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Java高级特性/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="165">
+          <caret line="11" column="37" lean-forward="false" selection-start-line="11" selection-start-column="37" selection-end-line="11" selection-end-column="37" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/工具类库/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="233">
+          <caret line="69" column="0" lean-forward="false" selection-start-line="69" selection-start-column="0" selection-end-line="69" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/README.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="0">
+            <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <folding />
+          </first_editor>
+          <second_editor />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="3" lean-forward="false" selection-start-line="21" selection-start-column="3" selection-end-line="44" selection-end-column="19" />
+        <state relative-caret-position="449">
+          <caret line="41" column="21" lean-forward="false" selection-start-line="41" selection-start-column="21" selection-end-line="41" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q62.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="510">
-          <caret line="34" column="34" lean-forward="false" selection-start-line="34" selection-start-column="34" selection-end-line="34" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/math/BigDecimal.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38400">
-          <caret line="2622" column="15" lean-forward="false" selection-start-line="2622" selection-start-column="15" selection-end-line="2622" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q62不同路径.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="675">
-          <caret line="45" column="18" lean-forward="false" selection-start-line="45" selection-start-column="18" selection-end-line="45" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q78.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="34" lean-forward="false" selection-start-line="21" selection-start-column="34" selection-end-line="21" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/repository/commons-beanutils/commons-beanutils/1.8.0/commons-beanutils-1.8.0.jar!/org/apache/commons/beanutils/BeanUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="244">
-          <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-beans/5.2.8.RELEASE/spring-beans-5.2.8.RELEASE.jar!/org/springframework/beans/BeanUtils.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="156">
-          <caret line="356" column="65" lean-forward="false" selection-start-line="356" selection-start-column="65" selection-end-line="356" selection-end-column="65" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="219">
-          <caret line="3179" column="26" lean-forward="false" selection-start-line="3179" selection-start-column="26" selection-end-line="3179" selection-end-column="26" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q2.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="34" lean-forward="false" selection-start-line="14" selection-start-column="34" selection-end-line="14" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q78子集.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="71" lean-forward="false" selection-start-line="21" selection-start-column="71" selection-end-line="21" selection-end-column="71" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#327#342#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/add_two_numbers.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="68" column="6" lean-forward="false" selection-start-line="68" selection-start-column="6" selection-end-line="68" selection-end-column="6" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/readME.txt">
+    <entry file="file://$PROJECT_DIR$/力扣刷题/力扣刷题.iml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1058,27 +816,71 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg2两数相加/standard_solution.java">
+    <entry file="file://$PROJECT_DIR$/力扣刷题/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-7">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="431">
+          <caret line="34" column="21" lean-forward="false" selection-start-line="34" selection-start-column="21" selection-end-line="34" selection-end-column="21" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q2两数相加.java">
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1三门问题.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="26" column="13" lean-forward="false" selection-start-line="26" selection-start-column="13" selection-end-line="26" selection-end-column="13" />
+        <state relative-caret-position="405">
+          <caret line="27" column="49" lean-forward="false" selection-start-line="27" selection-start-column="49" selection-end-line="27" selection-end-column="49" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q20有效的括号.java">
+    <entry file="file://$PROJECT_DIR$/基础类型相关/src/main/java/基本数据类型/BoxingAndUnboxing.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="420">
-          <caret line="28" column="25" lean-forward="false" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+        <state relative-caret-position="-492">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础类型相关/src/main/java/基本数据类型/BigDecimalAndDouble.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="549">
+          <caret line="97" column="59" lean-forward="false" selection-start-line="97" selection-start-column="59" selection-end-line="97" selection-end-column="59" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q15.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q15三数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-306">
+          <caret line="11" column="21" lean-forward="false" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16最接近的三数之和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="43" column="65" lean-forward="false" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#1566#1567#0" expanded="false" />
+            <element signature="e#1642#1643#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1092,322 +894,116 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/median_of_two_sorted_arrays.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="30">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="585">
+          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q4.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="34" lean-forward="false" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q5.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="165">
-          <caret line="11" column="8" lean-forward="false" selection-start-line="11" selection-start-column="8" selection-end-line="11" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q5最长回文子串.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="25" column="49" lean-forward="false" selection-start-line="25" selection-start-column="49" selection-end-line="25" selection-end-column="49" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q7.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="75" lean-forward="false" selection-start-line="17" selection-start-column="75" selection-end-line="17" selection-end-column="75" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q4寻找两个正序数组的中位数.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="403">
-          <caret line="34" column="0" lean-forward="false" selection-start-line="34" selection-start-column="2" selection-end-line="37" selection-end-column="15" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Integer.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="1497" column="22" lean-forward="false" selection-start-line="1497" selection-start-column="22" selection-end-line="1497" selection-end-column="22" />
-          <folding>
-            <element signature="e#57650#57651#0" expanded="false" />
-            <element signature="e#57708#57709#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q7整数反转.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="433">
-          <caret line="39" column="51" lean-forward="false" selection-start-line="39" selection-start-column="51" selection-end-line="39" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1069#1070#0" expanded="false" />
-            <element signature="e#1117#1118#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/README.TXT">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="45">
-          <caret line="3" column="47" lean-forward="false" selection-start-line="3" selection-start-column="47" selection-end-line="3" selection-end-column="47" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/qw1三门问题/ThreeDoors.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="49" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1三门问题.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="16" lean-forward="false" selection-start-line="10" selection-start-column="16" selection-end-line="10" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/每日一题/Q111.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="7" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="19" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/每日一题/Q111二叉树的最小深度.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="465">
-          <caret line="32" column="28" lean-forward="false" selection-start-line="32" selection-start-column="28" selection-end-line="32" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/cglib.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="15">
-          <caret line="1" column="2" lean-forward="false" selection-start-line="1" selection-start-column="2" selection-end-line="1" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/repository/net/sf/ezmorph/ezmorph/1.0.6/ezmorph-1.0.6.jar!/net/sf/ezmorph/test/ArrayAssertions.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="71">
-          <caret line="71" column="23" lean-forward="false" selection-start-line="71" selection-start-column="23" selection-end-line="71" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/pom.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="18" lean-forward="false" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/reflect/Method.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="183" column="20" lean-forward="false" selection-start-line="183" selection-start-column="20" selection-end-line="183" selection-end-column="20" />
-          <folding>
-            <element signature="e#6024#6025#0" expanded="false" />
-            <element signature="e#6052#6053#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://$PROJECT_DIR$/../../maven/repository/org/springframework/spring-core/5.1.6.RELEASE/spring-core-5.1.6.RELEASE.jar!/org/springframework/cglib/proxy/Enhancer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-11564">
-          <caret line="50" column="13" lean-forward="false" selection-start-line="50" selection-start-column="13" selection-end-line="50" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/lang/Object.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="175">
-          <caret line="234" column="18" lean-forward="false" selection-start-line="234" selection-start-column="18" selection-end-line="234" selection-end-column="18" />
-          <folding>
-            <element signature="e#10065#10066#0" expanded="false" />
-            <element signature="e#10148#10149#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter241堆溢出.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="16" column="27" lean-forward="false" selection-start-line="16" selection-start-column="27" selection-end-line="16" selection-end-column="27" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/aop.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="2" lean-forward="false" selection-start-line="10" selection-start-column="2" selection-end-line="10" selection-end-column="2" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserServiceImplAuth.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="6" column="2" lean-forward="false" selection-start-line="6" selection-start-column="2" selection-end-line="6" selection-end-column="2" />
-          <folding>
-            <element signature="e#250#251#0" expanded="false" />
-            <element signature="e#277#278#0" expanded="false" />
-            <element signature="e#362#363#0" expanded="false" />
-            <element signature="e#392#393#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserServiceImpl.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="29" lean-forward="false" selection-start-line="13" selection-start-column="29" selection-end-line="13" selection-end-column="29" />
-          <folding>
-            <element signature="e#266#267#0" expanded="true" />
-            <element signature="e#293#294#0" expanded="true" />
-            <element signature="e#370#371#0" expanded="true" />
-            <element signature="e#400#401#0" expanded="true" />
-            <element signature="e#450#451#0" expanded="true" />
-            <element signature="e#492#493#0" expanded="true" />
-            <element signature="e#539#540#0" expanded="true" />
-            <element signature="e#581#582#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/UserService.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="24" lean-forward="false" selection-start-line="9" selection-start-column="24" selection-end-line="9" selection-end-column="24" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/Hello.java">
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter2Java内存区域与内存溢出异常/Chapter241堆溢出.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="210">
-          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="14" selection-end-column="0" />
+          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter3垃圾收集器与内存分配策略/Chapter324Finalize方法演示.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="149">
+          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
+          <folding>
+            <element signature="e#235#236#0" expanded="false" />
+            <element signature="e#297#298#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="120">
+          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/EnhancerTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="826">
-          <caret line="87" column="64" lean-forward="false" selection-start-line="87" selection-start-column="64" selection-end-line="87" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#905#906#0" expanded="true" />
-            <element signature="e#933#934#0" expanded="true" />
-            <element signature="e#4035#4036#0" expanded="true" />
-            <element signature="e#4074#4075#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_CGLib之Enhancer/ProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="373">
-          <caret line="25" column="0" lean-forward="false" selection-start-line="25" selection-start-column="0" selection-end-line="25" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1225#1226#0" expanded="true" />
-            <element signature="e#1283#1284#0" expanded="true" />
-            <element signature="e#1310#1311#0" expanded="true" />
-            <element signature="e#1367#1368#0" expanded="true" />
-            <element signature="e#1398#1399#0" expanded="true" />
-            <element signature="e#1459#1460#0" expanded="true" />
-            <element signature="e#1496#1497#0" expanded="true" />
-            <element signature="e#1550#1551#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/cglib/CGLIBProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="705">
-          <caret line="47" column="8" lean-forward="false" selection-start-line="47" selection-start-column="8" selection-end-line="47" selection-end-column="8" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/过程中学习额外知识/Chapter243_额外相关_AOP_JDK的Proxy技术/proxy/JDKProxyFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-37">
-          <caret line="56" column="0" lean-forward="false" selection-start-line="56" selection-start-column="0" selection-end-line="56" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter243方法区和运行时常量池溢出.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="269">
-          <caret line="67" column="17" lean-forward="false" selection-start-line="67" selection-start-column="17" selection-end-line="67" selection-end-column="17" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter244本机直接内存溢出.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="195">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q8字符串转换整数">
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q8.txt">
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21合并两个有序链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="26">
-          <caret line="14" column="21" lean-forward="false" selection-start-line="14" selection-start-column="21" selection-end-line="14" selection-end-column="21" />
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23合并K个升序链表.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="453">
+          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26删除排序数组中的重复项.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="295">
+          <caret line="27" column="22" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="27" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53最大子序和.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
+          <folding>
+            <element signature="e#481#482#0" expanded="true" />
+            <element signature="e#562#563#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70爬楼梯.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="301">
+          <caret line="36" column="17" lean-forward="true" selection-start-line="24" selection-start-column="7" selection-end-line="36" selection-end-column="17" />
+          <folding>
+            <element signature="e#775#776#0" expanded="true" />
+            <element signature="e#827#828#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -1428,7 +1024,7 @@
       </state>
       <state key="FacetStructureConfigurable.UI">
         <settings>
-          <last-edited>No facets are configured</last-edited>
+          <last-edited>Spring</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1463,7 +1059,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>java学习总结</last-edited>
+          <last-edited>力扣刷题</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1474,9 +1070,21 @@
           </splitter-proportions>
         </settings>
       </state>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
       <state key="ProjectLibrariesConfigurable.UI">
         <settings>
-          <last-edited>aggs-matrix-stats-client-6.2.2</last-edited>
+          <last-edited>Maven: aopalliance:aopalliance:1.0</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -1487,9 +1095,5 @@
         </settings>
       </state>
     </states>
-  </component>
-  <component name="mavenExecuteGoalHistory">
-    <option value="$PROJECT_DIR$" />
-    <option value="-U idea:idea" />
   </component>
 </project>

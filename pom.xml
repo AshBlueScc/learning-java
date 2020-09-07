@@ -5,7 +5,7 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>java学习总结</artifactId>
+    <artifactId>learning-java</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
@@ -17,6 +17,7 @@
         <module>设计模式</module>
         <module>工具类库</module>
         <module>一些测试</module>
+        <module>基础类型相关</module>
     </modules>
 
     <dependencies>
@@ -32,6 +33,12 @@
             <artifactId>json-lib</artifactId>
             <version>2.4</version>
             <classifier>jdk18</classifier>
+        </dependency>
+
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-lang3</artifactId>
+            <version>3.0</version>
         </dependency>
 
         <!-- https://mvnrepository.com/artifact/org.projectlombok/lombok -->

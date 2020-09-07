@@ -1,6 +1,6 @@
 package 趣味问题;
 
-import org.apache.commons.lang.math.RandomUtils;
+import org.apache.commons.lang3.RandomUtils;
 
 
 /**
@@ -22,10 +22,10 @@ public class QW1三门问题 {
 
         for(int i = 0; i < n; i++) {
             boolean[] doors = new boolean[]{false, false, false};   //三门，false表示羊，true表示车
-            doors[RandomUtils.nextInt(3)] = true;   //0, 1, 2其中一扇门后面有一辆车
+            doors[RandomUtils.nextInt(0,4)] = true;   //0, 1, 2其中一扇门后面有一辆车
 
             //参与者随机选择一扇门
-            int players = RandomUtils.nextInt(3);
+            int players = RandomUtils.nextInt(0,4);
 
             //主持人打开一扇门，去掉一个有羊的门
             //参与者不换选到车的次数加1
