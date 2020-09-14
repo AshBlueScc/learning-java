@@ -31,7 +31,7 @@ public class DeepCopy {
     //2.使用clone方法，注意需要实现cloneable接口
     public static void main(String[] args) throws IOException, ClassNotFoundException {
         List<Person> srcList = Lists.newArrayList(Person.create("s1", 2), Person.create("s2", 3));
-//        List<Person> destList = deepCopy(srcList); //调用该方法(使用序列化方法)
+//        ListCompare<Person> destList = deepCopy(srcList); //调用该方法(使用序列化方法)
         List<Person> destList = new ArrayList<>();
         srcList.forEach(o->{
             destList.add((Person) o.clone());
