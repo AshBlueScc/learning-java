@@ -2,21 +2,25 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b3b1cbcf-0b3d-4935-88a5-19d37414dc12" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q141.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q141环形链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q155.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q155最小栈.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q160.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q160相交链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q169.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q169多数元素.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q206.txt" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q206反转链表.java" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/ListCompare.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q217.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q217存在重复元素.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q231.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q231_2的幂.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q235.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q235二叉搜索树的最近公共祖先.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q237.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q237删除链表中的节点.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q238.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q292.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q292Nim游戏.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q344.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q344反转字符串.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q557.txt" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q557反转字符串中的单词III.java" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/ListArraySetTransfer.java" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q136只出现一次的数字.java" afterPath="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q136只出现一次的数字.java" />
+      <change beforePath="$PROJECT_DIR$/力扣刷题/pom.xml" afterPath="$PROJECT_DIR$/力扣刷题/pom.xml" />
       <change beforePath="$PROJECT_DIR$/基础类型相关/pom.xml" afterPath="$PROJECT_DIR$/基础类型相关/pom.xml" />
-      <change beforePath="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/DeepCopy.java" afterPath="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/DeepCopy.java" />
     </list>
     <ignored path="$PROJECT_DIR$/多线程到底层/target/" />
     <ignored path="$PROJECT_DIR$/框架/target/" />
@@ -37,115 +41,108 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Q155最小栈.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q155最小栈.java">
+      <file leaf-file-name="Q235二叉搜索树的最近公共祖先.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q235二叉搜索树的最近公共祖先.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-246">
-              <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="14" selection-end-column="43" />
+            <state relative-caret-position="10">
+              <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="28" selection-end-column="20" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q237.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q237.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q237删除链表中的节点.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q237删除链表中的节点.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="30" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q292.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q292.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="11" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q292Nim游戏.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q292Nim游戏.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="150">
+              <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#484#485#0" expanded="true" />
-                <element signature="e#541#542#0" expanded="true" />
-                <element signature="e#565#566#0" expanded="true" />
-                <element signature="e#600#601#0" expanded="true" />
+                <element signature="e#147#148#0" expanded="true" />
+                <element signature="e#178#179#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q141环形链表.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q141环形链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="249">
-              <caret line="26" column="3" lean-forward="false" selection-start-line="26" selection-start-column="3" selection-end-line="34" selection-end-column="44" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q160.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q160.txt">
+      <file leaf-file-name="Q344.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q344.txt">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="9" />
+              <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="10" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q160相交链表.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q160相交链表.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="120">
-              <caret line="8" column="3" lean-forward="false" selection-start-line="8" selection-start-column="3" selection-end-line="16" selection-end-column="5" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q169.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q169.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q169多数元素.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q169多数元素.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
-              <folding>
-                <element signature="e#873#874#0" expanded="true" />
-                <element signature="e#938#939#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q206.txt" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q206.txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="9" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Q136只出现一次的数字.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q136只出现一次的数字.java">
+      <file leaf-file-name="Q344反转字符串.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q344反转字符串.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="135">
-              <caret line="9" column="5" lean-forward="false" selection-start-line="9" selection-start-column="5" selection-end-line="13" selection-end-column="25" />
+              <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="13" selection-end-column="9" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Q206反转链表.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q206反转链表.java">
+      <file leaf-file-name="Q557.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q557.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+            <state relative-caret-position="0">
+              <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="18" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="ListCompare.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/基础类型相关/src/main/java/List相关/ListCompare.java">
+      <file leaf-file-name="Q557反转字符串中的单词III.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q557反转字符串中的单词III.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="283">
-              <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
+            <state relative-caret-position="285">
+              <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="true" />
-                <element signature="e#1470#1471#0" expanded="true" />
-                <element signature="e#1514#1515#0" expanded="true" />
+                <element signature="e#510#511#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Q238.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q238.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -170,23 +167,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/一些测试/pom.xml" />
-        <option value="$PROJECT_DIR$/基础类型相关/pom.xml" />
-        <option value="$PROJECT_DIR$/多线程到底层/pom.xml" />
-        <option value="$PROJECT_DIR$/数据库/pom.xml" />
-        <option value="$PROJECT_DIR$/框架/pom.xml" />
-        <option value="$PROJECT_DIR$/设计模式/pom.xml" />
-        <option value="$PROJECT_DIR$/Java高级特性/pom.xml" />
-        <option value="$PROJECT_DIR$/工具类库/pom.xml" />
-        <option value="$PROJECT_DIR$/pom.xml" />
-        <option value="$PROJECT_DIR$/力扣刷题/pom.xml" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/趣味问题/QW1三门问题.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q15三数之和.java" />
-        <option value="$PROJECT_DIR$/基础类型相关/src/main/java/基本数据类型/BigDecimalAndDouble.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16.txt" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16最接近的三数之和.java" />
-        <option value="$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter3垃圾收集器与内存分配策略/Chapter324Finalize方法演示.java" />
-        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21.txt" />
         <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21合并两个有序链表.java" />
         <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23.txt" />
         <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23合并K个升序链表.java" />
@@ -220,6 +200,24 @@
         <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q169多数元素.java" />
         <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q206.txt" />
         <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q206反转链表.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q217.txt" />
+        <option value="$PROJECT_DIR$/基础类型相关/pom.xml" />
+        <option value="$PROJECT_DIR$/力扣刷题/pom.xml" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q217存在重复元素.java" />
+        <option value="$PROJECT_DIR$/基础类型相关/src/main/java/List相关/ListArraySetTransfer.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q231.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q231_2的幂.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q235.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q235二叉搜索树的最近公共祖先.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q237.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q237删除链表中的节点.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q292.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q292Nim游戏.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q344.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q344反转字符串.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q557.txt" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q557反转字符串中的单词III.java" />
+        <option value="$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q238.txt" />
       </list>
     </option>
   </component>
@@ -337,6 +335,15 @@
             <path>
               <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
               <item name="learning-java" type="462c0819:PsiDirectoryNode" />
+              <item name="力扣刷题" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="企鹅精选练习50题" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
               <item name="基础类型相关" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
@@ -369,62 +376,6 @@
               <item name="java" type="462c0819:PsiDirectoryNode" />
               <item name="List相关" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
-              <item name="读书版" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="java学习总结" type="b2602c69:ProjectViewProjectNode" />
-              <item name="learning-java" type="462c0819:PsiDirectoryNode" />
-              <item name="多线程到底层" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="main" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-              <item name="深入理解Java虚拟机" type="462c0819:PsiDirectoryNode" />
-              <item name="读书版" type="462c0819:PsiDirectoryNode" />
-              <item name="Chapter3垃圾收集器与内存分配策略" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -455,7 +406,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Q206反转链表">
+  <component name="RunManager" selected="Application.Q557反转字符串中的单词III">
     <configuration default="true" type="Applet" factoryName="Applet">
       <option name="HTML_USED" value="false" />
       <option name="WIDTH" value="400" />
@@ -463,14 +414,14 @@
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <module />
     </configuration>
-    <configuration name="ListCompare" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ListArraySetTransfer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="List相关.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="List相关.ListCompare" />
+      <option name="MAIN_CLASS_NAME" value="List相关.ListArraySetTransfer" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -482,14 +433,14 @@
       <module name="基础类型相关" />
       <envs />
     </configuration>
-    <configuration name="Q155最小栈" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Q217存在重复元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="企鹅精选练习50题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q155最小栈" />
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q217存在重复元素" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -501,14 +452,14 @@
       <module name="力扣刷题" />
       <envs />
     </configuration>
-    <configuration name="Q160相交链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Q231_2的幂" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="企鹅精选练习50题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q160相交链表" />
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q231_2的幂" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -520,14 +471,14 @@
       <module name="力扣刷题" />
       <envs />
     </configuration>
-    <configuration name="Q169多数元素" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Q235二叉搜索树的最近公共祖先" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="企鹅精选练习50题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q169多数元素" />
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q235二叉搜索树的最近公共祖先" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -539,14 +490,14 @@
       <module name="力扣刷题" />
       <envs />
     </configuration>
-    <configuration name="Q206反转链表" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="Q557反转字符串中的单词III" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
           <option name="PATTERN" value="企鹅精选练习50题.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q206反转链表" />
+      <option name="MAIN_CLASS_NAME" value="企鹅精选练习50题.Q557反转字符串中的单词III" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
@@ -633,19 +584,19 @@
       <predefined_log_file id="idea.log" enabled="true" />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.ListCompare" />
-      <item index="1" class="java.lang.String" itemvalue="Application.Q155最小栈" />
-      <item index="2" class="java.lang.String" itemvalue="Application.Q160相交链表" />
-      <item index="3" class="java.lang.String" itemvalue="Application.Q169多数元素" />
-      <item index="4" class="java.lang.String" itemvalue="Application.Q206反转链表" />
+      <item index="0" class="java.lang.String" itemvalue="Application.Q217存在重复元素" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ListArraySetTransfer" />
+      <item index="2" class="java.lang.String" itemvalue="Application.Q231_2的幂" />
+      <item index="3" class="java.lang.String" itemvalue="Application.Q235二叉搜索树的最近公共祖先" />
+      <item index="4" class="java.lang.String" itemvalue="Application.Q557反转字符串中的单词III" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.Q206反转链表" />
-        <item index="1" class="java.lang.String" itemvalue="Application.Q169多数元素" />
-        <item index="2" class="java.lang.String" itemvalue="Application.Q160相交链表" />
-        <item index="3" class="java.lang.String" itemvalue="Application.Q155最小栈" />
-        <item index="4" class="java.lang.String" itemvalue="Application.ListCompare" />
+        <item index="0" class="java.lang.String" itemvalue="Application.Q557反转字符串中的单词III" />
+        <item index="1" class="java.lang.String" itemvalue="Application.Q235二叉搜索树的最近公共祖先" />
+        <item index="2" class="java.lang.String" itemvalue="Application.Q231_2的幂" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ListArraySetTransfer" />
+        <item index="4" class="java.lang.String" itemvalue="Application.Q217存在重复元素" />
       </list>
     </recent_temporary>
   </component>
@@ -665,15 +616,16 @@
       <workItem from="1599096172721" duration="44673000" />
       <workItem from="1599526366247" duration="2885000" />
       <workItem from="1599613145533" duration="10725000" />
-      <workItem from="1600045577529" duration="15046000" />
+      <workItem from="1600045577529" duration="32520000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="73329000" />
+    <option name="totallyTimeSpent" value="90803000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="272" y="95" width="1440" height="877" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
@@ -684,17 +636,17 @@
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2498642" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3312034" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33069828" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Alipay DevTools" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.21475627" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.21475627" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Spring" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32674572" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32674572" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26108727" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="JProfiler" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32806325" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -718,7 +670,7 @@
       <breakpoints-dialog>
         <breakpoints-dialog />
       </breakpoints-dialog>
-      <option name="time" value="13" />
+      <option name="time" value="18" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -727,160 +679,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q16最接近的三数之和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="364">
-          <caret line="43" column="65" lean-forward="false" selection-start-line="43" selection-start-column="65" selection-end-line="43" selection-end-column="65" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter2Java内存区域与内存溢出异常/Chapter241堆溢出.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="13" lean-forward="false" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/多线程到底层/src/main/java/深入理解Java虚拟机/读书版/Chapter3垃圾收集器与内存分配策略/Chapter324Finalize方法演示.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="149">
-          <caret line="13" column="5" lean-forward="false" selection-start-line="13" selection-start-column="5" selection-end-line="13" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="19" lean-forward="false" selection-start-line="8" selection-start-column="19" selection-end-line="8" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="4" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q21合并两个有序链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q23合并K个升序链表.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="630">
-          <caret line="42" column="21" lean-forward="false" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="15" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="10" column="36" lean-forward="false" selection-start-line="10" selection-start-column="36" selection-end-line="10" selection-end-column="36" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q53最大子序和.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
-          <folding>
-            <element signature="e#481#482#0" expanded="false" />
-            <element signature="e#562#563#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="21" column="13" lean-forward="false" selection-start-line="21" selection-start-column="13" selection-end-line="21" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q70爬楼梯.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="36" column="17" lean-forward="false" selection-start-line="24" selection-start-column="7" selection-end-line="36" selection-end-column="17" />
-          <folding>
-            <element signature="e#775#776#0" expanded="false" />
-            <element signature="e#827#828#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q26删除排序数组中的重复项.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="405">
-          <caret line="27" column="22" lean-forward="false" selection-start-line="12" selection-start-column="8" selection-end-line="27" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q88.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="12" lean-forward="false" selection-start-line="0" selection-start-column="4" selection-end-line="0" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/median_of_two_sorted_arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="585">
-          <caret line="39" column="13" lean-forward="false" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/readME.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/Eg4寻找两个有序数组的中位数/standard_solution.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q88合并两个有序数组.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="321">
-          <caret line="24" column="16" lean-forward="false" selection-start-line="24" selection-start-column="16" selection-end-line="24" selection-end-column="16" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q104.txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="225">
-          <caret line="15" column="12" lean-forward="false" selection-start-line="15" selection-start-column="12" selection-end-line="15" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q104二叉树的最大深度.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="255">
-          <caret line="17" column="5" lean-forward="false" selection-start-line="17" selection-start-column="5" selection-end-line="21" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q121.txt">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1041,22 +839,14 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/基础类型相关/src/main/java/List相关/CreateListMethods.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="150">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/基础类型相关/src/main/java/List相关/ListCompare.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="283">
           <caret line="45" column="38" lean-forward="false" selection-start-line="45" selection-start-column="38" selection-end-line="45" selection-end-column="38" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#1470#1471#0" expanded="true" />
-            <element signature="e#1514#1515#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#1470#1471#0" expanded="false" />
+            <element signature="e#1514#1515#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1074,11 +864,11 @@
         <state relative-caret-position="-246">
           <caret line="13" column="2" lean-forward="false" selection-start-line="13" selection-start-column="2" selection-end-line="14" selection-end-column="43" />
           <folding>
-            <element signature="imports" expanded="true" />
-            <element signature="e#484#485#0" expanded="true" />
-            <element signature="e#541#542#0" expanded="true" />
-            <element signature="e#565#566#0" expanded="true" />
-            <element signature="e#600#601#0" expanded="true" />
+            <element signature="imports" expanded="false" />
+            <element signature="e#484#485#0" expanded="false" />
+            <element signature="e#541#542#0" expanded="false" />
+            <element signature="e#565#566#0" expanded="false" />
+            <element signature="e#600#601#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1112,8 +902,8 @@
         <state relative-caret-position="361">
           <caret line="31" column="23" lean-forward="false" selection-start-line="31" selection-start-column="23" selection-end-line="31" selection-end-column="23" />
           <folding>
-            <element signature="e#873#874#0" expanded="true" />
-            <element signature="e#938#939#0" expanded="true" />
+            <element signature="e#873#874#0" expanded="false" />
+            <element signature="e#938#939#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1136,8 +926,188 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q206反转链表.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="32" column="40" lean-forward="true" selection-start-line="32" selection-start-column="40" selection-end-line="32" selection-end-column="40" />
+        <state relative-caret-position="382">
+          <caret line="30" column="0" lean-forward="false" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q217.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="11" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础类型相关/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="339">
+          <caret line="25" column="5" lean-forward="false" selection-start-line="25" selection-start-column="5" selection-end-line="29" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="474">
+          <caret line="44" column="21" lean-forward="false" selection-start-line="44" selection-start-column="21" selection-end-line="44" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_144.jdk/Contents/Home/src.zip!/java/util/Arrays.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="4570" column="39" lean-forward="false" selection-start-line="4570" selection-start-column="39" selection-end-line="4570" selection-end-column="39" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础类型相关/src/main/java/List相关/DeepCopy.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="28" column="0" lean-forward="false" selection-start-line="28" selection-start-column="0" selection-end-line="28" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q217存在重复元素.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="0" lean-forward="false" selection-start-line="14" selection-start-column="0" selection-end-line="23" selection-end-column="21" />
+          <folding>
+            <element signature="imports" expanded="false" />
+            <element signature="e#578#579#0" expanded="false" />
+            <element signature="e#649#650#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础类型相关/src/main/java/List相关/CreateListMethods.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="364">
+          <caret line="37" column="21" lean-forward="false" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/基础类型相关/src/main/java/List相关/ListArraySetTransfer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="14" column="16" lean-forward="false" selection-start-line="14" selection-start-column="16" selection-end-line="14" selection-end-column="16" />
+          <folding>
+            <element signature="imports" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q231.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="8" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q231_2的幂.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="32" column="0" lean-forward="false" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q235.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="17" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q235二叉搜索树的最近公共祖先.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="10">
+          <caret line="16" column="7" lean-forward="false" selection-start-line="16" selection-start-column="7" selection-end-line="28" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q237.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="13" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q237删除链表中的节点.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="8" lean-forward="false" selection-start-line="16" selection-start-column="8" selection-end-line="18" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q292.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="11" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q292Nim游戏.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="10" column="24" lean-forward="false" selection-start-line="10" selection-start-column="24" selection-end-line="10" selection-end-column="24" />
+          <folding>
+            <element signature="e#147#148#0" expanded="true" />
+            <element signature="e#178#179#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q344.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="10" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="10" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q344反转字符串.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="135">
+          <caret line="9" column="6" lean-forward="false" selection-start-line="9" selection-start-column="6" selection-end-line="13" selection-end-column="9" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q557.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="5" lean-forward="false" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="18" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q557反转字符串中的单词III.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="19" column="0" lean-forward="true" selection-start-line="19" selection-start-column="0" selection-end-line="19" selection-end-column="0" />
+          <folding>
+            <element signature="e#510#511#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/力扣刷题/src/main/java/企鹅精选练习50题/Q238.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="16" column="50" lean-forward="false" selection-start-line="16" selection-start-column="50" selection-end-line="16" selection-end-column="50" />
           <folding />
         </state>
       </provider>
