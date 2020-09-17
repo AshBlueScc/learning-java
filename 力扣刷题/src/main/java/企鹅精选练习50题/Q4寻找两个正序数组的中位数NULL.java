@@ -5,7 +5,7 @@ package 企鹅精选练习50题;
  * @date 2020/8/25
  * @time 10:01 AM
  */
-public class Q4寻找两个正序数组的中位数 {
+public class Q4寻找两个正序数组的中位数NULL {
 
     public double findMedianSortedArrays(int[] nums1, int[] nums2) {
         int[] temp = nums1;
