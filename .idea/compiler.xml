@@ -17,18 +17,17 @@
         <module name="设计模式" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="java学习总结" target="1.5" />
+    <bytecodeTargetLevel target="1.8">
       <module name="Java高级特性" target="1.8" />
-      <module name="learning-java" target="1.5" />
-      <module name="一些测试" target="1.7" />
+      <module name="learning-java" target="1.8" />
+      <module name="一些测试" target="1.8" />
       <module name="力扣刷题" target="1.8" />
       <module name="基础类型相关" target="1.8" />
       <module name="多线程到底层" target="1.8" />
-      <module name="工具类库" target="1.7" />
-      <module name="数据库" target="1.5" />
+      <module name="工具类库" target="1.8" />
+      <module name="数据库" target="1.8" />
       <module name="框架" target="1.8" />
-      <module name="设计模式" target="1.5" />
+      <module name="设计模式" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
