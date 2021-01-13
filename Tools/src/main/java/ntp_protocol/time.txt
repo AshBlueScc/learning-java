@@ -1,0 +1,5 @@
+server = ntp1.aliyun.com
+retry = 2
+port = 123
+timeout = 3000
+

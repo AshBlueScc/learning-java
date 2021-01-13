@@ -5,19 +5,19 @@
     <modelVersion>4.0.0</modelVersion>
 
     <groupId>groupId</groupId>
-    <artifactId>learning-java</artifactId>
+    <artifactId>learning_java</artifactId>
     <packaging>pom</packaging>
     <version>1.0-SNAPSHOT</version>
     <modules>
-        <module>Java高级特性</module>
-        <module>框架</module>
-        <module>力扣刷题</module>
-        <module>多线程到底层</module>
-        <module>数据库</module>
-        <module>设计模式</module>
-        <module>工具类库</module>
-        <module>一些测试</module>
-        <module>基础类型相关</module>
+        <module>Java_advanced_features</module>
+        <module>Frameworks</module>
+        <module>Leet_code</module>
+        <module>Multithreads</module>
+        <module>Database</module>
+        <module>Design_pattern</module>
+        <module>Tools</module>
+        <module>Tests</module>
+        <module>Basic_data_structures</module>
     </modules>
 
     <dependencies>
@@ -26,13 +26,6 @@
             <groupId>com.alibaba</groupId>
             <artifactId>fastjson</artifactId>
             <version>1.2.25</version>
-        </dependency>
-
-        <dependency>
-            <groupId>net.sf.json-lib</groupId>
-            <artifactId>json-lib</artifactId>
-            <version>2.4</version>
-            <classifier>jdk18</classifier>
         </dependency>
 
         <dependency>

@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        v = function () {
+            debugger
+            var e = arguments.length > 0 && void 0 !== arguments[0] ? arguments[0] : {},
+                t = "",
+                n = function (e) {
+                    if (null === e) return "";
+                    if (e instanceof Array) {
+                        var t = "";
+                        return e.forEach((function (e) {
+                            t.length > 0 && (t += ","), t += JSON.stringify(e)
+                        })), t
+                    }
+                    return e instanceof Object ? JSON.stringify(e) : e.toString()
+                };
+            return t = Object.keys(e).sort().reduce((function (t, i) {
+                return void 0 === e[i] ? t : "".concat(t).concat(i).concat(n(e[i]))
+            }), ""), t += "048a9c4943398714b356a696503d2d36"
+        }
+        var temp = {
+            spuId: 11,
+            skuId: "",
+            productSourceName: "",
+            propertyValueId: ""
+        }
+        // var temp = {
+        //     productSourceName: "",
+        //     propertyValueId: "",
+        //     spuId: 12,
+        sign = v(temp);
+        console.log(sign)
+    </script>
+</head>
+
+<body>
+
+</body>
+
+</html>
